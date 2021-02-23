@@ -2,204 +2,214 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Georgi <g.georgiev.shumen@gmail.com>, 2021.
+# Georgi Georgiev <g.georgiev.shumen@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-10 14:12+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-02-24 05:50+0000\n"
+"Last-Translator: Georgi Georgiev <g.georgiev.shumen@gmail.com>\n"
+"Language-Team: Bulgarian <https://hosted.weblate.org/projects/cytopia/game/"
+"bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5\n"
 
 #. This is a description for an object titled: Small Coal Power Plant2
 msgid "A  small coal power plant."
-msgstr ""
+msgstr "Малък ТЕЦ."
 
 #. This is a description for an object titled: Small Coal Power Plant
 msgid "A  small coal power plant.  It can supply a small town with "
 "electricity, but it produces a lot of pollution."
 msgstr ""
+"Произвежда достатъчно електричество за малък град, но причинява голямо "
+"замърсяване."
 
 #. This is a description for an object titled: Wheat Field
 msgid "A Wheat Field"
-msgstr ""
+msgstr "Пшенично поле"
 
 #. This is a description for an object titled: Water Tower
 msgid "A beautiful water tower"
-msgstr ""
+msgstr "Красива водонапорна кула"
 
 #. This is a description for an object titled: Big Building
 msgid "A big building"
-msgstr ""
+msgstr "Голяма сграда"
 
 #. This is a description for an object titled: Tall Concrete Tower
 msgid "A bland-looking apartment building made out of concrete."
-msgstr ""
+msgstr "Обикновен панелен блок."
 
 #. This is a description for an object titled: Blank Platform
 msgid "A blank train platform with nothing on it."
-msgstr ""
+msgstr "Празен железопътен перон."
 
 #. This is a description for an object titled: Hotel
 msgid "A blue hotel from vienna"
-msgstr ""
+msgstr "Син хотел от Виена"
 
 #. This is a description for an object titled: Red Berry Bushes (Light)
 #. This is a description for an object titled: Red Berry Bushes (Medium)
 #. This is a description for an object titled: Red Berry Bushes (Dense)
 msgid "A bush with delicious red berries."
-msgstr ""
+msgstr "Храст с вкусни червени плодове."
 
 #. This is a description for an object titled: Chemical Plant
 msgid "A chemical plant"
-msgstr ""
+msgstr "Химически завод"
 
 #. This is a description for an object titled: Medium Depolluter
 msgid "A classic depolluter building that has been recently repurposed."
-msgstr ""
+msgstr "Типичен пречиствател, който наскоро е бил преустроен."
 
 #. This is a description for an object titled: Mansion
 msgid "A classic house from Savannah , Georgia , USA"
-msgstr ""
+msgstr "Типична къща от Савана в щата Джорджия, САЩ"
 
 #. This is a description for an object titled: Coal Power Plant
 msgid "A coal power plant.  It'll produce enough electricity to keep a town "
 "running, but it creates a lot of pollution."
 msgstr ""
+"Произвежда достатъчно електричество за цял град, но причинява голямо "
+"замърсяване."
 
 #. This is a description for an object titled: Small Commercial Center
 msgid "A commercial center"
-msgstr ""
+msgstr "Търговски център"
 
 #. This is a description for an object titled: Factory
 #. This is a description for an object titled: Factory
 msgid "A factory"
-msgstr ""
+msgstr "Завод"
 
 #. This is a description for an object titled: Benches
 msgid "A few benches that offer a place to sit to your citizens."
-msgstr ""
+msgstr "Няколко градски пейки."
 
 #. This is a description for an object titled: Green Cacti (Light)
 #. This is a description for an object titled: Green Cacti (Medium)
 #. This is a description for an object titled: Green Cacti (Dense)
 msgid "A green cactus."
-msgstr ""
+msgstr "Зелен кактус."
 
 #. This is a description for an object titled: Pine Trees (Light)
 #. This is a description for an object titled: Pine Trees (Medium)
 #. This is a description for an object titled: Pine Trees (Dense)
 msgid "A group of beautiful pinetrees."
-msgstr ""
+msgstr "Няколко красиви борове."
 
 #. This is a description for an object titled: Centerpiece Park
 msgid "A group of benches that surround a nice decorative object."
-msgstr ""
+msgstr "Няколко градински пейки."
 
 #. This is a description for an object titled: Birch Trees (Light)
 #. This is a description for an object titled: Birch Trees (Medium)
 #. This is a description for an object titled: Birch Trees (Dense)
 msgid "A group of birch trees."
-msgstr ""
+msgstr "Няколко брези."
 
 #. This is a description for an object titled: Burned Trees (Light)
 #. This is a description for an object titled: Burned Trees (Medium)
 #. This is a description for an object titled: Burned Trees (Dense)
 msgid "A group of burned trees."
-msgstr ""
+msgstr "Няколко изгорени дървета."
 
 #. This is a description for an object titled: Crystal Trees (Light)
 #. This is a description for an object titled: Crystal Trees (Medium)
 #. This is a description for an object titled: Crystal Trees (Dense)
 msgid "A group of crystal trees."
-msgstr ""
+msgstr "Няколко кристални дървета."
 
 #. This is a description for an object titled: Cypress Trees (Light)
 #. This is a description for an object titled: Cypress Trees (Medium)
 #. This is a description for an object titled: Cypress Trees (Dense)
 msgid "A group of cypress trees."
-msgstr ""
+msgstr "Няколко кипариса."
 
 #. This is a description for an object titled: People
 msgid "A group of mannequins you dressed up as people that can be used to "
 "decorate a town."
-msgstr ""
+msgstr "Няколко манекена, които могат да се използват за украса на града."
 
 #. This is a description for an object titled: Mushrooms (Light)
 #. This is a description for an object titled: Mushrooms (Medium)
 #. This is a description for an object titled: Mushrooms (Dense)
 msgid "A group of mysterious mushroom trees."
-msgstr ""
+msgstr "Няколко загадъчни гъби."
 
 #. This is a description for an object titled: Oak Trees (Light)
 #. This is a description for an object titled: Oak Trees (Medium)
 #. This is a description for an object titled: Oak Trees (Dense)
 msgid "A group of oak trees."
-msgstr ""
+msgstr "Няколко дъба."
 
 #. This is a description for an object titled: Palm Trees (Light)
 #. This is a description for an object titled: Palm Trees (Medium)
 #. This is a description for an object titled: Palm Trees (Dense)
 msgid "A group of palmtrees."
-msgstr ""
+msgstr "Няколко палми."
 
 #. This is a description for an object titled: Picnic Tables
 msgid "A group of picnic tables that your citizens can use to eat lunch at."
-msgstr ""
+msgstr "Няколко маси за пикник."
 
 #. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Light)
 #. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Medium)
 #. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Dense)
 msgid "A group of plum trees."
-msgstr ""
+msgstr "Няколко сливови дървета."
 
 #. This is a description for an object titled: Sakura Trees (Light)
 #. This is a description for an object titled: Sakura Trees (Medium)
 #. This is a description for an object titled: Sakura Trees (Dense)
 msgid "A group of sakura trees."
-msgstr ""
+msgstr "Няколко японски черешови дървета."
 
 #. This is a description for an object titled: Stone Pines (Light)
 #. This is a description for an object titled: Stone Pines (Medium)
 #. This is a description for an object titled: Stone Pines (Dense)
 msgid "A group of stone pines."
-msgstr ""
+msgstr "Няколко пинии."
 
 #. This is a description for an object titled: Bamboo (Light)
 #. This is a description for an object titled: Bamboo (Medium)
 msgid "A group of tall bamboo plants."
-msgstr ""
+msgstr "Няколко високи бамбукови растения."
 
 #. This is a description for an object titled: Bamboo (Dense)
 msgid "A group of tall bamboo trees."
-msgstr ""
+msgstr "Няколко високи бамбукови дървета."
 
 #. This is a description for an object titled: Cattails (Light)
 #. This is a description for an object titled: Cattails (Medium)
 #. This is a description for an object titled: Cattails (Dense)
 msgid "A group tall wetland plants well-known for their brown catkins."
-msgstr ""
+msgstr "Няколко папурови растения."
 
 #. This is a description for an object titled: Highway Road
 msgid "A highway! Cars go faaaaast here."
-msgstr ""
+msgstr "Магистрала."
 
 #. This is a description for an object titled: house
 msgid "A house from Alabama , USA"
-msgstr ""
+msgstr "Къща от щата Алабама, САЩ"
 
 #. This is a description for an object titled: Apartment Building
 msgid "A house from Vienna"
-msgstr ""
+msgstr "Къща от Виена"
 
 #. This is a description for an object titled: Community Tower
 msgid "A large multi-story shopping mall with large windows. Urban legends "
 "say it was built by hand by the members of a distant community"
 msgstr ""
+"Голям многоетажен търговски център с големи прозорци. Според градските "
+"легенди, той е бил построен на ръка от някаква далечна общност"
 
 #. This is a description for an object titled: Large Plaza Park
 msgid "A large plaza with a pool of water in the middle."
