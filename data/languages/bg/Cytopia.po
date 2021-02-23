@@ -1,0 +1,1693 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Georgi <g.georgiev.shumen@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-10 14:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. This is a description for an object titled: Small Coal Power Plant2
+msgid "A  small coal power plant."
+msgstr ""
+
+#. This is a description for an object titled: Small Coal Power Plant
+msgid "A  small coal power plant.  It can supply a small town with "
+"electricity, but it produces a lot of pollution."
+msgstr ""
+
+#. This is a description for an object titled: Wheat Field
+msgid "A Wheat Field"
+msgstr ""
+
+#. This is a description for an object titled: Water Tower
+msgid "A beautiful water tower"
+msgstr ""
+
+#. This is a description for an object titled: Big Building
+msgid "A big building"
+msgstr ""
+
+#. This is a description for an object titled: Tall Concrete Tower
+msgid "A bland-looking apartment building made out of concrete."
+msgstr ""
+
+#. This is a description for an object titled: Blank Platform
+msgid "A blank train platform with nothing on it."
+msgstr ""
+
+#. This is a description for an object titled: Hotel
+msgid "A blue hotel from vienna"
+msgstr ""
+
+#. This is a description for an object titled: Red Berry Bushes (Light)
+#. This is a description for an object titled: Red Berry Bushes (Medium)
+#. This is a description for an object titled: Red Berry Bushes (Dense)
+msgid "A bush with delicious red berries."
+msgstr ""
+
+#. This is a description for an object titled: Chemical Plant
+msgid "A chemical plant"
+msgstr ""
+
+#. This is a description for an object titled: Medium Depolluter
+msgid "A classic depolluter building that has been recently repurposed."
+msgstr ""
+
+#. This is a description for an object titled: Mansion
+msgid "A classic house from Savannah , Georgia , USA"
+msgstr ""
+
+#. This is a description for an object titled: Coal Power Plant
+msgid "A coal power plant.  It'll produce enough electricity to keep a town "
+"running, but it creates a lot of pollution."
+msgstr ""
+
+#. This is a description for an object titled: Small Commercial Center
+msgid "A commercial center"
+msgstr ""
+
+#. This is a description for an object titled: Factory
+#. This is a description for an object titled: Factory
+msgid "A factory"
+msgstr ""
+
+#. This is a description for an object titled: Benches
+msgid "A few benches that offer a place to sit to your citizens."
+msgstr ""
+
+#. This is a description for an object titled: Green Cacti (Light)
+#. This is a description for an object titled: Green Cacti (Medium)
+#. This is a description for an object titled: Green Cacti (Dense)
+msgid "A green cactus."
+msgstr ""
+
+#. This is a description for an object titled: Pine Trees (Light)
+#. This is a description for an object titled: Pine Trees (Medium)
+#. This is a description for an object titled: Pine Trees (Dense)
+msgid "A group of beautiful pinetrees."
+msgstr ""
+
+#. This is a description for an object titled: Centerpiece Park
+msgid "A group of benches that surround a nice decorative object."
+msgstr ""
+
+#. This is a description for an object titled: Birch Trees (Light)
+#. This is a description for an object titled: Birch Trees (Medium)
+#. This is a description for an object titled: Birch Trees (Dense)
+msgid "A group of birch trees."
+msgstr ""
+
+#. This is a description for an object titled: Burned Trees (Light)
+#. This is a description for an object titled: Burned Trees (Medium)
+#. This is a description for an object titled: Burned Trees (Dense)
+msgid "A group of burned trees."
+msgstr ""
+
+#. This is a description for an object titled: Crystal Trees (Light)
+#. This is a description for an object titled: Crystal Trees (Medium)
+#. This is a description for an object titled: Crystal Trees (Dense)
+msgid "A group of crystal trees."
+msgstr ""
+
+#. This is a description for an object titled: Cypress Trees (Light)
+#. This is a description for an object titled: Cypress Trees (Medium)
+#. This is a description for an object titled: Cypress Trees (Dense)
+msgid "A group of cypress trees."
+msgstr ""
+
+#. This is a description for an object titled: People
+msgid "A group of mannequins you dressed up as people that can be used to "
+"decorate a town."
+msgstr ""
+
+#. This is a description for an object titled: Mushrooms (Light)
+#. This is a description for an object titled: Mushrooms (Medium)
+#. This is a description for an object titled: Mushrooms (Dense)
+msgid "A group of mysterious mushroom trees."
+msgstr ""
+
+#. This is a description for an object titled: Oak Trees (Light)
+#. This is a description for an object titled: Oak Trees (Medium)
+#. This is a description for an object titled: Oak Trees (Dense)
+msgid "A group of oak trees."
+msgstr ""
+
+#. This is a description for an object titled: Palm Trees (Light)
+#. This is a description for an object titled: Palm Trees (Medium)
+#. This is a description for an object titled: Palm Trees (Dense)
+msgid "A group of palmtrees."
+msgstr ""
+
+#. This is a description for an object titled: Picnic Tables
+msgid "A group of picnic tables that your citizens can use to eat lunch at."
+msgstr ""
+
+#. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Light)
+#. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Medium)
+#. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Dense)
+msgid "A group of plum trees."
+msgstr ""
+
+#. This is a description for an object titled: Sakura Trees (Light)
+#. This is a description for an object titled: Sakura Trees (Medium)
+#. This is a description for an object titled: Sakura Trees (Dense)
+msgid "A group of sakura trees."
+msgstr ""
+
+#. This is a description for an object titled: Stone Pines (Light)
+#. This is a description for an object titled: Stone Pines (Medium)
+#. This is a description for an object titled: Stone Pines (Dense)
+msgid "A group of stone pines."
+msgstr ""
+
+#. This is a description for an object titled: Bamboo (Light)
+#. This is a description for an object titled: Bamboo (Medium)
+msgid "A group of tall bamboo plants."
+msgstr ""
+
+#. This is a description for an object titled: Bamboo (Dense)
+msgid "A group of tall bamboo trees."
+msgstr ""
+
+#. This is a description for an object titled: Cattails (Light)
+#. This is a description for an object titled: Cattails (Medium)
+#. This is a description for an object titled: Cattails (Dense)
+msgid "A group tall wetland plants well-known for their brown catkins."
+msgstr ""
+
+#. This is a description for an object titled: Highway Road
+msgid "A highway! Cars go faaaaast here."
+msgstr ""
+
+#. This is a description for an object titled: house
+msgid "A house from Alabama , USA"
+msgstr ""
+
+#. This is a description for an object titled: Apartment Building
+msgid "A house from Vienna"
+msgstr ""
+
+#. This is a description for an object titled: Community Tower
+msgid "A large multi-story shopping mall with large windows. Urban legends "
+"say it was built by hand by the members of a distant community"
+msgstr ""
+
+#. This is a description for an object titled: Large Plaza Park
+msgid "A large plaza with a pool of water in the middle."
+msgstr ""
+
+#. This is a description for an object titled: Flowers (Light)
+#. This is a description for an object titled: Flowers (Medium)
+#. This is a description for an object titled: Flowers (Dense)
+msgid "A lovely flower patch that blooms in all colors."
+msgstr ""
+
+#. This is a description for an object titled: European Road
+msgid "A modern european looking road without a sidewalk."
+msgstr ""
+
+#. This is a description for an object titled: European Road
+msgid "A modern european looking road."
+msgstr ""
+
+#. This is a description for an object titled: Big Depolluter
+msgid "A new factory that was once a depolluter building."
+msgstr ""
+
+#. This is a description for an object titled: Park Crossroads
+msgid "A nice park that can be used as a good centerpiece."
+msgstr ""
+
+#. This is a description for an object titled: Paved Road
+msgid "A nice paved road that are commonly found in the middle of large "
+"cities.  Includes a sidewalk."
+msgstr ""
+
+#. This is a description for an object titled: Pool
+msgid "A nice public pool that is a great way to stay cool and keep your "
+"citizens happy."
+msgstr ""
+
+#. This is a description for an object titled: Creme-Oran Tower
+msgid "A nice residential building donned with white and orange concrete."
+msgstr ""
+
+#. This is a description for an object titled: TODO TITLE
+msgid "A nice reward for your city-building efforts, although it might make "
+"your citizens question if they're in a simulation."
+msgstr ""
+
+#. This is a description for an object titled: Petrol Pump
+msgid "A petrol pump"
+msgstr ""
+
+#. This is a description for an object titled: Petrol Station
+msgid "A petrol station"
+msgstr ""
+
+#. This is a description for an object titled: Picnic Pavilion
+msgid "A picnic pavilion is a great place for your citizens to eat lunch."
+msgstr ""
+
+#. This is a description for an object titled: Coal Pile
+msgid "A pile of coal"
+msgstr ""
+
+#. This is a description for an object titled: Desert Rocks
+#. This is a description for an object titled: Golden Rocks
+msgid "A pile of rocks that can be found in the desert biome."
+msgstr ""
+
+#. This is a description for an object titled: Diamond Rocks
+msgid "A pile of rocks that can be found in the diamond biome."
+msgstr ""
+
+#. This is a description for an object titled: Rocks
+msgid "A pile of rocks that can be found in the grasslands biome."
+msgstr ""
+
+#. This is a description for an object titled: Snowy Rocks
+msgid "A pile of rocks that can be found in the snow biome."
+msgstr ""
+
+#. This is a description for an object titled: Water Rocks
+msgid "A pile of rocks that can be found in water."
+msgstr ""
+
+#. This is a description for an object titled: Poplars (Light)
+#. This is a description for an object titled: Poplars (Medium)
+#. This is a description for an object titled: Poplars (Dense)
+msgid "A poplar tree"
+msgstr ""
+
+#. This is a description for an object titled: Prison Fence
+msgid "A prison fence"
+msgstr ""
+
+#. This is a description for an object titled: Rural French Road brokenlined
+msgid "A rural road from france with fresh asphalt with a broken line."
+msgstr ""
+
+#. This is a description for an object titled: Rural French Road fresh
+msgid "A rural road from france with fresh asphalt."
+msgstr ""
+
+#. This is a description for an object titled: Rural French Road
+msgid "A rural road from france with worn asphalt."
+msgstr ""
+
+#. This is a description for an object titled: Rural French Road lined
+msgid "A rural road from france with worn asphalth a straight line."
+msgstr ""
+
+#. This is a description for an object titled: Game Shop
+msgid "A shop that sells games. Even Cytopia is sold here!"
+msgstr ""
+
+#. This is a description for an object titled: Phone Shop
+msgid "A shop that sells phones. It has the new CyPhone X"
+msgstr ""
+
+#. This is a description for an object titled: CompactFast Shop
+#. This is a description for an object titled: Shop
+msgid "A shop!"
+msgstr ""
+
+#. This is a description for an object titled: Small house
+msgid "A small  building"
+msgstr ""
+
+#. This is a description for an object titled: Small Military Facility
+msgid "A small building dedicated to small-scale inustrial-related military "
+"activity."
+msgstr ""
+
+#. This is a description for an object titled: Mansion
+msgid "A small french mansion "
+msgstr ""
+
+#. This is a description for an object titled: Lantern
+msgid "A small lantern that can be used to decorate your cities."
+msgstr ""
+
+#. This is a description for an object titled: Small Office Building
+msgid "A small office building with a nice sidewalk and a unique blue "
+"entrance."
+msgstr ""
+
+#. This is a description for an object titled: Homeless Camp
+msgid "A small piece of land where impoverished people reside."
+msgstr ""
+
+#. This is a description for an object titled: Small Shed
+msgid "A small shed used by nearby factories as a way to store things."
+msgstr ""
+
+#. This is a description for an object titled: BikeShop
+msgid "A small shop that sells bikes."
+msgstr ""
+
+#. This is a description for an object titled: Small House
+msgid "A small trailer house"
+msgstr ""
+
+#. This is a description for an object titled: Small House
+msgid "A small trailer house."
+msgstr ""
+
+#. This is a description for an object titled: Small Waiting Platform
+msgid "A small train platform that has a small structure on it.  People can "
+"wait here until the train comes, although there isnt much room "
+"inside."
+msgstr ""
+
+#. This is a description for an object titled: Small Water Tower
+msgid "A small water tower"
+msgstr ""
+
+#. This is a description for an object titled: Wooden Sign
+msgid "A small wooden sign that can be used to decorate a town.  It doesn't "
+"actually say anything though..."
+msgstr ""
+
+#. This is a description for an object titled: Borg's Burgers
+msgid "A somewhat large fast food restaurant known for cheap food and "
+"questionable quality."
+msgstr ""
+
+#. This is a description for an object titled: Trailer Park
+msgid "A somewhat-large plot of land that is the home to many trailer "
+"houses."
+msgstr ""
+
+#. This is a description for an object titled: Classic Red Barn
+msgid "A stereotypical red barn."
+msgstr ""
+
+#. This is a description for an object titled: Glass Tower
+msgid "A tall glass skyscraper that fears the day a stone-throwing "
+"competition is held in town."
+msgstr ""
+
+#. This is a description for an object titled: Light Pole
+msgid "A tall light pole that can be used to decorate a town."
+msgstr ""
+
+#. This is a description for an object titled: Small Shack
+msgid "A tiny house that can only accommodate a few people."
+msgstr ""
+
+#. This is a description for an object titled: Bench Platform
+msgid "A train platform with a couple of benches and a trash can."
+msgstr ""
+
+#. This is a description for an object titled: Sign Platform
+msgid "A train platform with a large sign on it."
+msgstr ""
+
+#. This is a description for an object titled: Sunken Ship
+msgid "A very old ship that crashed here long ago.  Its origin is unkown, "
+"but I think it's safe to say what happened to its crew"
+msgstr ""
+
+#. This is a description for an object titled: Yellow Cacti (Light)
+#. This is a description for an object titled: Yellow Cacti (Medium)
+#. This is a description for an object titled: Yellow Cacti (Dense)
+msgid "A yellow cactus."
+msgstr ""
+
+#. This is a title for an object with the description: Alley road.
+msgid "Alley Road"
+msgstr ""
+
+#. This is a description for an object titled: Alley Road
+msgid "Alley road."
+msgstr ""
+
+#. This is a description for an object titled: Skyscraper
+msgid "An algae-green tower that is the home of lots of people."
+msgstr ""
+
+#. This is a description for an object titled: Old Power Plant
+msgid "An ancient coal power plant that has been turned into a factory."
+msgstr ""
+
+#. This is a description for an object titled: Apartment Building
+msgid "An apartment building from Montreal , Quebec"
+msgstr ""
+
+#. This is a description for an object titled: Apartment Building
+msgid "An apartment building from Vancouver , BC , Canada"
+msgstr ""
+
+#. This is a description for an object titled: Apartment Building
+msgid "An appartement building from Bellevue , WA , USA"
+msgstr ""
+
+#. This is a description for an object titled: Country Road
+msgid "An average road that'll you would commonly find out in the "
+"countryside.  It lacks a proper sidewalk though."
+msgstr ""
+
+#. This is a description for an object titled: European Road
+msgid "An european looking road."
+msgstr ""
+
+#. This is a description for an object titled: Oasis
+msgid "An oasis"
+msgstr ""
+
+#. This is a description for an object titled: Phone Booth
+msgid "An old blue phone booth that can be used to decorate your cities."
+msgstr ""
+
+#. This is a description for an object titled: Clock Store
+msgid "An old clock store that sells and repairs clocks."
+msgstr ""
+
+#. This is a description for an object titled: Day Care Center
+msgid "An old day care that has since become someone's home."
+msgstr ""
+
+#. This is a description for an object titled: Mini Depolluter
+msgid "An old depolluter building that has become a new industrial factory."
+msgstr ""
+
+#. This is a description for an object titled: Dirt Road
+msgid "An old dirt road that doesn't require much maintenance.  Not "
+"recommended for busy roadways."
+msgstr ""
+
+#. This is a description for an object titled: Phone Booth
+msgid "An old phone booth that can be used to decorate your cities."
+msgstr ""
+
+#. This is a title for an object with the description: Block of houses from the Boulevard des Belges , Rouen
+#. This is a title for an object with the description: A house from Vienna
+#. This is a title for an object with the description: An appartement building from Bellevue , WA , USA
+#. This is a title for an object with the description: An apartment building from Montreal , Quebec
+#. This is a title for an object with the description: An apartment building from Vancouver , BC , Canada
+msgid "Apartment Building"
+msgstr ""
+
+#. This is a title for an object with the description: Appartment
+#. This is a description for an object titled: Appartment
+msgid "Appartment"
+msgstr ""
+
+#. This is a title for an object with the description: Appartment Building
+#. This is a description for an object titled: Appartment Building
+#. This is a title for an object with the description: TODO DESC
+msgid "Appartment Building"
+msgstr ""
+
+#. This is a title for an object with the description: Appartment London
+#. This is a description for an object titled: Appartment London
+msgid "Appartment London"
+msgstr ""
+
+#. This is a title for an object with the description: Appartments
+#. This is a description for an object titled: Appartments
+#. This is a subCategory
+msgid "Appartments"
+msgstr ""
+
+#. This is a title for an object with the description: A group of tall bamboo trees.
+msgid "Bamboo (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of tall bamboo plants.
+msgid "Bamboo (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of tall bamboo plants.
+msgid "Bamboo (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain basalt tiles
+msgid "Basalt"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain beach tiles
+msgid "Beach"
+msgstr ""
+
+#. This is a title for an object with the description: A train platform with a couple of benches and a trash can.
+msgid "Bench Platform"
+msgstr ""
+
+#. This is a title for an object with the description: A few benches that offer a place to sit to your citizens.
+msgid "Benches"
+msgstr ""
+
+#. This is a title for an object with the description: big Appartments
+#. This is a title for an object with the description: big Appartments
+msgid "Big Appartments"
+msgstr ""
+
+#. This is a title for an object with the description: A big building
+msgid "Big Building"
+msgstr ""
+
+#. This is a title for an object with the description: A new factory that was once a depolluter building.
+msgid "Big Depolluter"
+msgstr ""
+
+#. This is a title for an object with the description: Big Office Building
+#. This is a description for an object titled: Big Office Building
+msgid "Big Office Building"
+msgstr ""
+
+#. This is a title for an object with the description: Big Warehouse
+#. This is a description for an object titled: Big Warehouse
+msgid "Big Warehouse"
+msgstr ""
+
+#. This is a title for an object with the description: A small shop that sells bikes.
+msgid "BikeShop"
+msgstr ""
+
+#. This is a title for an object with the description: A group of birch trees.
+msgid "Birch Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of birch trees.
+msgid "Birch Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of birch trees.
+msgid "Birch Trees (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Black Sand tiles
+msgid "Black Sand"
+msgstr ""
+
+#. This is a title for an object with the description: A blank train platform with nothing on it.
+msgid "Blank Platform"
+msgstr ""
+
+#. This is a description for an object titled: Apartment Building
+msgid "Block of houses from the Boulevard des Belges , Rouen"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Blueprint
+msgid "Blueprint"
+msgstr ""
+
+#. This is a title for an object with the description: Bois Guillaume Appartment
+#. This is a description for an object titled: Bois Guillaume Appartment
+msgid "Bois Guillaume Appartment"
+msgstr ""
+
+#. This is a title for an object with the description: A somewhat large fast food restaurant known for cheap food and questionable quality.
+msgid "Borg's Burgers"
+msgstr ""
+
+#. This is a UiElement with of the type: Text
+msgid "BuildMenu Layout"
+msgstr ""
+
+#. This is a subCategory
+msgid "BuildingsDecoration"
+msgstr ""
+
+#. This is a title for an object with the description: A group of burned trees.
+msgid "Burned Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of burned trees.
+msgid "Burned Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of burned trees.
+msgid "Burned Trees (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain burned tiles
+msgid "Burned land"
+msgstr ""
+
+#. This is a UiElement with of the type: TextButton
+msgid "Cancel"
+msgstr ""
+
+#. This is a title for an object with the description: A group tall wetland plants well-known for their brown catkins.
+msgid "Cattails (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group tall wetland plants well-known for their brown catkins.
+msgid "Cattails (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group tall wetland plants well-known for their brown catkins.
+msgid "Cattails (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of benches that surround a nice decorative object.
+msgid "Centerpiece Park"
+msgstr ""
+
+#. This is a title for an object with the description: A chemical plant
+msgid "Chemical Plant"
+msgstr ""
+
+#. This is a title for an object with the description: A stereotypical red barn.
+msgid "Classic Red Barn"
+msgstr ""
+
+#. This is a title for an object with the description: An old clock store that sells and repairs clocks.
+msgid "Clock Store"
+msgstr ""
+
+#. This is a title for an object with the description: A pile of coal
+msgid "Coal Pile"
+msgstr ""
+
+#. This is a title for an object with the description: A coal power plant.  It'll produce enough electricity to keep a town running, but it creates a lot of pollution.
+msgid "Coal Power Plant"
+msgstr ""
+
+#. This is a category
+#. This is a subCategory
+msgid "Commercial"
+msgstr ""
+
+#. This is a title for an object with the description: Commercial Zone (dense).
+msgid "Commercial Zone (dense)"
+msgstr ""
+
+#. This is a description for an object titled: Commercial Zone (dense)
+msgid "Commercial Zone (dense)."
+msgstr ""
+
+#. This is a title for an object with the description: Commercial Zone (light).
+msgid "Commercial Zone (light)"
+msgstr ""
+
+#. This is a description for an object titled: Commercial Zone (light)
+msgid "Commercial Zone (light)."
+msgstr ""
+
+#. This is a title for an object with the description: Commercial Zone (medium).
+msgid "Commercial Zone (medium)"
+msgstr ""
+
+#. This is a description for an object titled: Commercial Zone (medium)
+msgid "Commercial Zone (medium)."
+msgstr ""
+
+#. This is a title for an object with the description: A large multi-story shopping mall with large windows. Urban legends say it was built by hand by the members of a distant community
+msgid "Community Tower"
+msgstr ""
+
+#. This is a title for an object with the description: A shop!
+msgid "CompactFast Shop"
+msgstr ""
+
+#. This is a title for an object with the description: Pretty concrete
+#. This is a title for an object with the description: Pavement
+msgid "Concrete Ground Decoration"
+msgstr ""
+
+#. This is a UiElement with the ID: construction menu
+#. This is a UiElement with the ID: roads menu
+msgid "Construction"
+msgstr ""
+
+#. This is a subCategory
+msgid "Countries"
+msgstr ""
+
+#. This is a title for an object with the description: An average road that'll you would commonly find out in the countryside.  It lacks a proper sidewalk though.
+msgid "Country Road"
+msgstr ""
+
+#. This is a title for an object with the description: A nice residential building donned with white and orange concrete.
+msgid "Creme-Oran Tower"
+msgstr ""
+
+#. This is a title for an object with the description: A group of crystal trees.
+msgid "Crystal Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of crystal trees.
+msgid "Crystal Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of crystal trees.
+msgid "Crystal Trees (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of cypress trees.
+msgid "Cypress Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of cypress trees.
+msgid "Cypress Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of cypress trees.
+msgid "Cypress Trees (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: An old day care that has since become someone's home.
+msgid "Day Care Center"
+msgstr ""
+
+#. This is a UiElement with the ID: debug menu
+msgid "Debug Menu"
+msgstr ""
+
+#. This is a category
+msgid "Decoration"
+msgstr ""
+
+#. This is a UiElement with the ID: button demolish
+msgid "Demolish"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Desert tiles
+#. This is a subCategory
+msgid "Desert"
+msgstr ""
+
+#. This is a title for an object with the description: Desert building
+msgid "Desert Building"
+msgstr ""
+
+#. This is a title for an object with the description: A pile of rocks that can be found in the desert biome.
+msgid "Desert Rocks"
+msgstr ""
+
+#. This is a description for an object titled: Desert Building
+msgid "Desert building"
+msgstr ""
+
+#. This is a title for an object with the description: A pile of rocks that can be found in the diamond biome.
+msgid "Diamond Rocks"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Dirt tiles
+msgid "Dirt"
+msgstr ""
+
+#. This is a title for an object with the description: An old dirt road that doesn't require much maintenance.  Not recommended for busy roadways.
+msgid "Dirt Road"
+msgstr ""
+
+#. This is a title for an object with the description: An european looking road.
+#. This is a title for an object with the description: A modern european looking road.
+#. This is a title for an object with the description: A modern european looking road without a sidewalk.
+msgid "European Road"
+msgstr ""
+
+#. This is a title for an object with the description: A factory
+#. This is a title for an object with the description: A factory
+msgid "Factory"
+msgstr ""
+
+#. This is a category
+msgid "Farm"
+msgstr ""
+
+#. This is a title for an object with the description: Ferns are green flowerless plants with divided leaves that tend to grow in damp, shady areas.
+msgid "Ferns (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: Ferns are green flowerless plants with divided leaves that tend to grow in damp, shady areas.
+msgid "Ferns (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: Ferns are green flowerless plants with divided leaves that tend to grow in damp, shady areas.
+msgid "Ferns (Medium)"
+msgstr ""
+
+#. This is a description for an object titled: Ferns (Light)
+#. This is a description for an object titled: Ferns (Medium)
+#. This is a description for an object titled: Ferns (Dense)
+msgid "Ferns are green flowerless plants with divided leaves that tend to "
+"grow in damp, shady areas."
+msgstr ""
+
+#. This is a category
+#. This is a subCategory
+msgid "Flora"
+msgstr ""
+
+#. This is a title for an object with the description: A lovely flower patch that blooms in all colors.
+msgid "Flowers (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A lovely flower patch that blooms in all colors.
+msgid "Flowers (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A lovely flower patch that blooms in all colors.
+msgid "Flowers (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain grass forest tiles
+msgid "Forest"
+msgstr ""
+
+#. This is a UiElement with of the type: Text
+msgid "Fullscreen Mode"
+msgstr ""
+
+#. This is a title for an object with the description: A shop that sells games. Even Cytopia is sold here!
+msgid "Game Shop"
+msgstr ""
+
+#. This is a title for an object with the description: A tall glass skyscraper that fears the day a stone-throwing competition is held in town.
+msgid "Glass Tower"
+msgstr ""
+
+#. This is a title for an object with the description: A pile of rocks that can be found in the desert biome.
+msgid "Golden Rocks"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain grass mint tiles
+msgid "Grass Mint"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Grass Mint Forest tiles
+msgid "Grass Mint Forest"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain grass tiles
+msgid "Grassland"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Gravel tiles
+msgid "Gravel"
+msgstr ""
+
+#. This is a title for an object with the description: a green bush
+msgid "Green Bushes (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: a green bush
+msgid "Green Bushes (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: a green bush
+msgid "Green Bushes (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: A green cactus.
+msgid "Green Cacti (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A green cactus.
+msgid "Green Cacti (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A green cactus.
+msgid "Green Cacti (Medium)"
+msgstr ""
+
+#. This is a subCategory
+msgid "Ground Decoration"
+msgstr ""
+
+#. This is a subCategory
+msgid "High Wealth"
+msgstr ""
+
+#. This is a title for an object with the description: A highway! Cars go faaaaast here.
+msgid "Highway Road"
+msgstr ""
+
+#. This is a title for an object with the description: A small piece of land where impoverished people reside.
+msgid "Homeless Camp"
+msgstr ""
+
+#. This is a title for an object with the description: TODO DESC
+msgid "Horses"
+msgstr ""
+
+#. This is a title for an object with the description: A blue hotel from vienna
+msgid "Hotel"
+msgstr ""
+
+#. This is a title for an object with the description: House with swimming pool
+#. This is a description for an object titled: House with swimming pool
+msgid "House with swimming pool"
+msgstr ""
+
+#. This is a description for an object titled: Ice Cream Shop
+msgid "I scream for ice cream!"
+msgstr ""
+
+#. This is a title for an object with the description: I scream for ice cream!
+msgid "Ice Cream Shop"
+msgstr ""
+
+#. This is a description for an object titled: Tall Grass (Light)
+#. This is a description for an object titled: Tall Grass (Medium)
+#. This is a description for an object titled: Tall Grass (Dense)
+msgid "In the tall grass."
+msgstr ""
+
+#. This is a category
+#. This is a subCategory
+msgid "Industrial"
+msgstr ""
+
+#. This is a title for an object with the description: Industrial Building
+#. This is a description for an object titled: Industrial Building
+#. This is a title for an object with the description: Industrial Building
+#. This is a description for an object titled: Industrial Building
+msgid "Industrial Building"
+msgstr ""
+
+#. This is a title for an object with the description: Industrial Zone.
+msgid "Industrial Zone (light)"
+msgstr ""
+
+#. This is a title for an object with the description: Industrial Zone.
+#. This is a title for an object with the description: Industrial Zone.
+msgid "Industrial Zone (medium)"
+msgstr ""
+
+#. This is a description for an object titled: Industrial Zone (light)
+#. This is a description for an object titled: Industrial Zone (medium)
+#. This is a description for an object titled: Industrial Zone (medium)
+msgid "Industrial Zone."
+msgstr ""
+
+#. This is a description for an object titled: Tan Tower
+msgid "It might be an old, bland-looking tower, but it gets the job done."
+msgstr ""
+
+#. This is a title for an object with the description: A small lantern that can be used to decorate your cities.
+msgid "Lantern"
+msgstr ""
+
+#. This is a title for an object with the description: A large plaza with a pool of water in the middle.
+msgid "Large Plaza Park"
+msgstr ""
+
+#. This is a UiElement with the ID: button level terrain
+msgid "Level Terrain"
+msgstr ""
+
+#. This is a title for an object with the description: A tall light pole that can be used to decorate a town.
+msgid "Light Pole"
+msgstr ""
+
+#. This is a title for an object with the description: Lily pads are broad, rounded, heart- or shield-shaped leaves. Frogs like to sit on them!
+msgid "Lily Pads (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: Lily pads are broad, rounded, heart- or shield-shaped leaves. Frogs like to sit on them!
+msgid "Lily Pads (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: Lily pads are broad, rounded, heart- or shield-shaped leaves. Frogs like to sit on them!
+msgid "Lily Pads (Medium)"
+msgstr ""
+
+#. This is a description for an object titled: Lily Pads (Light)
+#. This is a description for an object titled: Lily Pads (Medium)
+#. This is a description for an object titled: Lily Pads (Dense)
+msgid "Lily pads are broad, rounded, heart- or shield-shaped leaves. Frogs "
+"like to sit on them!"
+msgstr ""
+
+#. This is a UiElement with the Action: LoadGame
+#: D:\projects\Cytopia\src\Game.cxx:138
+msgid "Load Game"
+msgstr ""
+
+#. This is a subCategory
+msgid "Low Wealth"
+msgstr ""
+
+#. This is a UiElement with the ID: button lower terrain
+msgid "Lower Terrain"
+msgstr ""
+
+#. This is a title for an object with the description: A classic house from Savannah , Georgia , USA
+#. This is a title for an object with the description: A small french mansion 
+msgid "Mansion"
+msgstr ""
+
+#. This is a category
+msgid "Medical"
+msgstr ""
+
+#. This is a title for an object with the description: Medium Appartments
+#. This is a description for an object titled: Medium Appartments
+msgid "Medium Appartments"
+msgstr ""
+
+#. This is a title for an object with the description: A classic depolluter building that has been recently repurposed.
+msgid "Medium Depolluter"
+msgstr ""
+
+#. This is a subCategory
+msgid "Medium Wealth"
+msgstr ""
+
+#. This is a title for an object with the description: An old depolluter building that has become a new industrial factory.
+msgid "Mini Depolluter"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain mud tiles
+msgid "Mud"
+msgstr ""
+
+#. This is a title for an object with the description: A group of mysterious mushroom trees.
+msgid "Mushrooms (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of mysterious mushroom trees.
+msgid "Mushrooms (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of mysterious mushroom trees.
+msgid "Mushrooms (Medium)"
+msgstr ""
+
+#. This is a category
+msgid "Nature"
+msgstr ""
+
+#. This is a subCategory
+msgid "NatureDecoration"
+msgstr ""
+
+#. This is a UiElement with the Action: NewGame
+#: D:\projects\Cytopia\src\Game.cxx:123
+msgid "New Game"
+msgstr ""
+
+#. This is a UiElement with the Action: SaveSettings
+msgid "OK"
+msgstr ""
+
+#. This is a title for an object with the description: A group of oak trees.
+msgid "Oak Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of oak trees.
+msgid "Oak Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of oak trees.
+msgid "Oak Trees (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: An oasis
+msgid "Oasis"
+msgstr ""
+
+#. This is a title for an object with the description: Old Church
+#. This is a description for an object titled: Old Church
+msgid "Old Church"
+msgstr ""
+
+#. This is a title for an object with the description: Old Industrial Building
+#. This is a description for an object titled: Old Industrial Building
+msgid "Old Industrial Building"
+msgstr ""
+
+#. This is a title for an object with the description: An ancient coal power plant that has been turned into a factory.
+msgid "Old Power Plant"
+msgstr ""
+
+#. This is a title for an object with the description: Old building
+#. This is a description for an object titled: Old building
+#. This is a title for an object with the description: Old building
+#. This is a description for an object titled: Old building
+msgid "Old building"
+msgstr ""
+
+#. This is a title for an object with the description: A group of palmtrees.
+msgid "Palm Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of palmtrees.
+msgid "Palm Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of palmtrees.
+msgid "Palm Trees (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: A nice park that can be used as a good centerpiece.
+msgid "Park Crossroads"
+msgstr ""
+
+#. This is a title for an object with the description: A nice paved road that are commonly found in the middle of large cities.  Includes a sidewalk.
+msgid "Paved Road"
+msgstr ""
+
+#. This is a description for an object titled: Concrete Ground Decoration
+msgid "Pavement"
+msgstr ""
+
+#. This is a title for an object with the description: A group of mannequins you dressed up as people that can be used to decorate a town.
+msgid "People"
+msgstr ""
+
+#. This is a title for an object with the description: A petrol pump
+msgid "Petrol Pump"
+msgstr ""
+
+#. This is a title for an object with the description: A petrol station
+msgid "Petrol Station"
+msgstr ""
+
+#. This is a title for an object with the description: An old phone booth that can be used to decorate your cities.
+#. This is a title for an object with the description: An old blue phone booth that can be used to decorate your cities.
+msgid "Phone Booth"
+msgstr ""
+
+#. This is a title for an object with the description: A shop that sells phones. It has the new CyPhone X
+msgid "Phone Shop"
+msgstr ""
+
+#. This is a title for an object with the description: A picnic pavilion is a great place for your citizens to eat lunch.
+msgid "Picnic Pavilion"
+msgstr ""
+
+#. This is a title for an object with the description: A group of picnic tables that your citizens can use to eat lunch at.
+msgid "Picnic Tables"
+msgstr ""
+
+#. This is a title for an object with the description: A group of beautiful pinetrees.
+msgid "Pine Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of beautiful pinetrees.
+msgid "Pine Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of beautiful pinetrees.
+msgid "Pine Trees (Medium)"
+msgstr ""
+
+#. This is a description for an object titled: Water pipe
+msgid "Pipes are used for transporting water."
+msgstr ""
+
+#. This is a title for an object with the description: A nice public pool that is a great way to stay cool and keep your citizens happy.
+msgid "Pool"
+msgstr ""
+
+#. This is a title for an object with the description: A poplar tree
+msgid "Poplars (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A poplar tree
+msgid "Poplars (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A poplar tree
+msgid "Poplars (Medium)"
+msgstr ""
+
+#. This is a category
+#. This is a UiElement with the ID: power menu
+msgid "Power"
+msgstr ""
+
+#. This is a description for an object titled: Concrete Ground Decoration
+msgid "Pretty concrete"
+msgstr ""
+
+#. This is a category
+msgid "Prison"
+msgstr ""
+
+#. This is a title for an object with the description: A prison fence
+msgid "Prison Fence"
+msgstr ""
+
+#. This is a title for an object with the description: Pyramid
+#. This is a description for an object titled: Pyramid
+msgid "Pyramid"
+msgstr ""
+
+#. This is a UiElement with the Action: QuitGame
+#: D:\projects\Cytopia\src\Game.cxx:151
+msgid "Quit Game"
+msgstr ""
+
+#. This is a UiElement with the ID: button raise terrain
+msgid "Raise Terrain"
+msgstr ""
+
+#. This is a title for an object with the description: A bush with delicious red berries.
+msgid "Red Berry Bushes (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A bush with delicious red berries.
+msgid "Red Berry Bushes (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A bush with delicious red berries.
+msgid "Red Berry Bushes (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Red Sand tiles
+#. This is a title for an object with the description: Terrain Rainstone tiles
+msgid "Red Sand"
+msgstr ""
+
+#. This is a category
+#. This is a subCategory
+msgid "Residential"
+msgstr ""
+
+#. This is a title for an object with the description: Residential Zone (dense).
+msgid "Residential Zone (dense)"
+msgstr ""
+
+#. This is a description for an object titled: Residential Zone (dense)
+msgid "Residential Zone (dense)."
+msgstr ""
+
+#. This is a title for an object with the description: Residential Zone (light).
+msgid "Residential Zone (light)"
+msgstr ""
+
+#. This is a description for an object titled: Residential Zone (light)
+msgid "Residential Zone (light)."
+msgstr ""
+
+#. This is a title for an object with the description: Residential Zone (medium).
+msgid "Residential Zone (medium)"
+msgstr ""
+
+#. This is a description for an object titled: Residential Zone (medium)
+msgid "Residential Zone (medium)."
+msgstr ""
+
+#. This is a title for an object with the description: Restaurant in Paris
+msgid "Restaurant"
+msgstr ""
+
+#. This is a description for an object titled: Restaurant
+msgid "Restaurant in Paris"
+msgstr ""
+
+#. This is a category
+msgid "Reward"
+msgstr ""
+
+#. This is a description for an object titled: Wild Rice (Light)
+#. This is a description for an object titled: Wild Rice (Medium)
+#. This is a description for an object titled: Wild Rice (Dense)
+msgid "Rice is normally grown as an annual plant, although in tropical "
+"areas it can survive as a perennial and can produce a ratoon crop "
+"for up to 30 years."
+msgstr ""
+
+#. This is a category
+msgid "Roads"
+msgstr ""
+
+#. This is a title for an object with the description: A pile of rocks that can be found in the grasslands biome.
+msgid "Rocks"
+msgstr ""
+
+#. This is a title for an object with the description: Ruegroshorloge
+#. This is a description for an object titled: Ruegroshorloge
+msgid "Ruegroshorloge"
+msgstr ""
+
+#. This is a title for an object with the description: A rural road from france with worn asphalt.
+msgid "Rural French Road"
+msgstr ""
+
+#. This is a title for an object with the description: A rural road from france with fresh asphalt with a broken line.
+msgid "Rural French Road brokenlined"
+msgstr ""
+
+#. This is a title for an object with the description: A rural road from france with fresh asphalt.
+msgid "Rural French Road fresh"
+msgstr ""
+
+#. This is a title for an object with the description: A rural road from france with worn asphalth a straight line.
+msgid "Rural French Road lined"
+msgstr ""
+
+#. This is a title for an object with the description: A group of sakura trees.
+msgid "Sakura Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of sakura trees.
+msgid "Sakura Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of sakura trees.
+msgid "Sakura Trees (Medium)"
+msgstr ""
+
+#. This is a UiElement with the Action: SaveGame
+msgid "Save Game"
+msgstr ""
+
+#. This is a category
+msgid "School"
+msgstr ""
+
+#. This is a UiElement with of the type: Text
+msgid "Screen Resolution"
+msgstr ""
+
+#. This is a UiElement with of the type: TextButton
+#. This is a UiElement with of the type: Text
+msgid "Settings"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain shading tiles
+msgid "Shading"
+msgstr ""
+
+#. This is a title for an object with the description: A shop!
+msgid "Shop"
+msgstr ""
+
+#. This is a title for an object with the description: A train platform with a large sign on it.
+msgid "Sign Platform"
+msgstr ""
+
+#. This is a subCategory
+msgid "SkyScraper"
+msgstr ""
+
+#. This is a title for an object with the description: An algae-green tower that is the home of lots of people.
+#. This is a subCategory
+msgid "Skyscraper"
+msgstr ""
+
+#. This is a title for an object with the description: A  small coal power plant.  It can supply a small town with electricity, but it produces a lot of pollution.
+msgid "Small Coal Power Plant"
+msgstr ""
+
+#. This is a title for an object with the description: A  small coal power plant.
+msgid "Small Coal Power Plant2"
+msgstr ""
+
+#. This is a title for an object with the description: A commercial center
+msgid "Small Commercial Center"
+msgstr ""
+
+#. This is a title for an object with the description: A small trailer house.
+#. This is a title for an object with the description: A small trailer house
+msgid "Small House"
+msgstr ""
+
+#. This is a subCategory
+msgid "Small Houses"
+msgstr ""
+
+#. This is a title for an object with the description: A small building dedicated to small-scale inustrial-related military activity.
+msgid "Small Military Facility"
+msgstr ""
+
+#. This is a title for an object with the description: A small office building with a nice sidewalk and a unique blue entrance.
+msgid "Small Office Building"
+msgstr ""
+
+#. This is a title for an object with the description: A tiny house that can only accommodate a few people.
+msgid "Small Shack"
+msgstr ""
+
+#. This is a title for an object with the description: A small shed used by nearby factories as a way to store things.
+msgid "Small Shed"
+msgstr ""
+
+#. This is a title for an object with the description: A small train platform that has a small structure on it.  People can wait here until the train comes, although there isnt much room inside.
+msgid "Small Waiting Platform"
+msgstr ""
+
+#. This is a title for an object with the description: A small water tower
+msgid "Small Water Tower"
+msgstr ""
+
+#. This is a title for an object with the description: A small  building
+msgid "Small house"
+msgstr ""
+
+#. This is a title for an object with the description: A pile of rocks that can be found in the snow biome.
+msgid "Snowy Rocks"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain soil tiles
+msgid "Soil"
+msgstr ""
+
+#. This is a category
+msgid "Station"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Stone tiles
+msgid "Stone"
+msgstr ""
+
+#. This is a title for an object with the description: A group of stone pines.
+msgid "Stone Pines (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of stone pines.
+msgid "Stone Pines (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of stone pines.
+msgid "Stone Pines (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: a little stream
+msgid "Stream"
+msgstr ""
+
+#. This is a title for an object with the description: A very old ship that crashed here long ago.  Its origin is unkown, but I think it's safe to say what happened to its crew
+msgid "Sunken Ship"
+msgstr ""
+
+#. This is a title for an object with the description: A bland-looking apartment building made out of concrete.
+msgid "Tall Concrete Tower"
+msgstr ""
+
+#. This is a title for an object with the description: In the tall grass.
+msgid "Tall Grass (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: In the tall grass.
+msgid "Tall Grass (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: In the tall grass.
+msgid "Tall Grass (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: It might be an old, bland-looking tower, but it gets the job done.
+msgid "Tan Tower"
+msgstr ""
+
+#. This is a category
+msgid "Terrain"
+msgstr ""
+
+#. This is a description for an object titled: Black Sand
+msgid "Terrain Black Sand tiles"
+msgstr ""
+
+#. This is a description for an object titled: Blueprint
+msgid "Terrain Blueprint"
+msgstr ""
+
+#. This is a description for an object titled: Desert
+msgid "Terrain Desert tiles"
+msgstr ""
+
+#. This is a description for an object titled: Dirt
+msgid "Terrain Dirt tiles"
+msgstr ""
+
+#. This is a description for an object titled: Grass Mint Forest
+msgid "Terrain Grass Mint Forest tiles"
+msgstr ""
+
+#. This is a description for an object titled: Gravel
+msgid "Terrain Gravel tiles"
+msgstr ""
+
+#. This is a description for an object titled: Red Sand
+msgid "Terrain Rainstone tiles"
+msgstr ""
+
+#. This is a description for an object titled: Red Sand
+msgid "Terrain Red Sand tiles"
+msgstr ""
+
+#. This is a description for an object titled: snow
+msgid "Terrain Snow tiles"
+msgstr ""
+
+#. This is a description for an object titled: Stone
+msgid "Terrain Stone tiles"
+msgstr ""
+
+#. This is a description for an object titled: Basalt
+msgid "Terrain basalt tiles"
+msgstr ""
+
+#. This is a description for an object titled: Beach
+msgid "Terrain beach tiles"
+msgstr ""
+
+#. This is a description for an object titled: Burned land
+msgid "Terrain burned tiles"
+msgstr ""
+
+#. This is a description for an object titled: Forest
+msgid "Terrain grass forest tiles"
+msgstr ""
+
+#. This is a description for an object titled: Grass Mint
+msgid "Terrain grass mint tiles"
+msgstr ""
+
+#. This is a description for an object titled: Grassland
+msgid "Terrain grass tiles"
+msgstr ""
+
+#. This is a description for an object titled: Mud
+msgid "Terrain mud tiles"
+msgstr ""
+
+#. This is a description for an object titled: Shading
+msgid "Terrain shading tiles"
+msgstr ""
+
+#. This is a description for an object titled: Soil
+msgid "Terrain soil tiles"
+msgstr ""
+
+#. This is a category
+msgid "TerrainDecoration"
+msgstr ""
+
+#. This is a title for an object with the description: A group of plum trees.
+msgid "Thundercloud Purple Leaf Plum Trees (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of plum trees.
+msgid "Thundercloud Purple Leaf Plum Trees (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A group of plum trees.
+msgid "Thundercloud Purple Leaf Plum Trees (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: Tour Front De Seine
+#. This is a description for an object titled: Tour Front De Seine
+msgid "Tour Front De Seine"
+msgstr ""
+
+#. This is a title for an object with the description: A somewhat-large plot of land that is the home to many trailer houses.
+msgid "Trailer Park"
+msgstr ""
+
+#. This is a category
+#. This is a UiElement with the ID: water menu
+msgid "Utilities"
+msgstr ""
+
+#. This is a title for an object with the description: Water
+#. This is a description for an object titled: Water
+#. This is a category
+#. This is a UiElement with the ID: button terrain water
+msgid "Water"
+msgstr ""
+
+#. This is a title for an object with the description: A pile of rocks that can be found in water.
+msgid "Water Rocks"
+msgstr ""
+
+#. This is a title for an object with the description: A beautiful water tower
+msgid "Water Tower"
+msgstr ""
+
+#. This is a title for an object with the description: Pipes are used for transporting water.
+msgid "Water pipe"
+msgstr ""
+
+#. This is a subCategory
+msgid "WaterFlora"
+msgstr ""
+
+#. This is a title for an object with the description: A Wheat Field
+msgid "Wheat Field"
+msgstr ""
+
+#. This is a title for an object with the description: Rice is normally grown as an annual plant, although in tropical areas it can survive as a perennial and can produce a ratoon crop for up to 30 years.
+msgid "Wild Rice (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: Rice is normally grown as an annual plant, although in tropical areas it can survive as a perennial and can produce a ratoon crop for up to 30 years.
+msgid "Wild Rice (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: Rice is normally grown as an annual plant, although in tropical areas it can survive as a perennial and can produce a ratoon crop for up to 30 years.
+msgid "Wild Rice (Medium)"
+msgstr ""
+
+#. This is a title for an object with the description: A small wooden sign that can be used to decorate a town.  It doesn't actually say anything though...
+msgid "Wooden Sign"
+msgstr ""
+
+#. This is a title for an object with the description: A yellow cactus.
+msgid "Yellow Cacti (Dense)"
+msgstr ""
+
+#. This is a title for an object with the description: A yellow cactus.
+msgid "Yellow Cacti (Light)"
+msgstr ""
+
+#. This is a title for an object with the description: A yellow cactus.
+msgid "Yellow Cacti (Medium)"
+msgstr ""
+
+#. This is a category
+msgid "Zones"
+msgstr ""
+
+#. This is a description for an object titled: Green Bushes (Light)
+#. This is a description for an object titled: Green Bushes (Medium)
+#. This is a description for an object titled: Green Bushes (Dense)
+msgid "a green bush"
+msgstr ""
+
+#. This is a description for an object titled: Stream
+msgid "a little stream"
+msgstr ""
+
+#. This is a description for an object titled: Big Appartments
+#. This is a description for an object titled: Big Appartments
+msgid "big Appartments"
+msgstr ""
+
+#. This is a title for an object with the description: A house from Alabama , USA
+msgid "house"
+msgstr ""
+
+#. This is a title for an object with the description: Terrain Snow tiles
+msgid "snow"
+msgstr ""
