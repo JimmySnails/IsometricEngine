@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-10 14:12+0100\n"
-"PO-Revision-Date: 2021-02-24 05:50+0000\n"
+"PO-Revision-Date: 2021-02-24 23:50+0000\n"
 "Last-Translator: Georgi Georgiev <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/cytopia/game/"
 "bg/>\n"
@@ -213,293 +213,298 @@ msgstr ""
 
 #. This is a description for an object titled: Large Plaza Park
 msgid "A large plaza with a pool of water in the middle."
-msgstr ""
+msgstr "Голям площад с басейн по средата."
 
 #. This is a description for an object titled: Flowers (Light)
 #. This is a description for an object titled: Flowers (Medium)
 #. This is a description for an object titled: Flowers (Dense)
 msgid "A lovely flower patch that blooms in all colors."
-msgstr ""
+msgstr "Прекрасни цветя, които цъфтят във всички цветове."
 
 #. This is a description for an object titled: European Road
 msgid "A modern european looking road without a sidewalk."
-msgstr ""
+msgstr "Модерен път по европейски образец, без тротоар."
 
 #. This is a description for an object titled: European Road
 msgid "A modern european looking road."
-msgstr ""
+msgstr "Модерен път по европейски образец."
 
 #. This is a description for an object titled: Big Depolluter
 msgid "A new factory that was once a depolluter building."
-msgstr ""
+msgstr "Нов завод, който е служел за пречиствател."
 
 #. This is a description for an object titled: Park Crossroads
 msgid "A nice park that can be used as a good centerpiece."
-msgstr ""
+msgstr "Красив парк, който може да се използва като централен елемент."
 
 #. This is a description for an object titled: Paved Road
 msgid "A nice paved road that are commonly found in the middle of large "
 "cities.  Includes a sidewalk."
-msgstr ""
+msgstr "Красив павиран път, който включва тротоар."
 
 #. This is a description for an object titled: Pool
 msgid "A nice public pool that is a great way to stay cool and keep your "
 "citizens happy."
-msgstr ""
+msgstr "Красив обществен басейн за жителите на града."
 
 #. This is a description for an object titled: Creme-Oran Tower
 msgid "A nice residential building donned with white and orange concrete."
-msgstr ""
+msgstr "Красива жилищна сграда от бетон с бял и оранжев цвят."
 
 #. This is a description for an object titled: TODO TITLE
 msgid "A nice reward for your city-building efforts, although it might make "
 "your citizens question if they're in a simulation."
 msgstr ""
+"Красива награда за уменията Ви по градоустройство, която може накара Вашите "
+"граждани да се запитат дали живеят в истински град."
 
 #. This is a description for an object titled: Petrol Pump
 msgid "A petrol pump"
-msgstr ""
+msgstr "Бензиноколонка"
 
 #. This is a description for an object titled: Petrol Station
 msgid "A petrol station"
-msgstr ""
+msgstr "Бензиностанция"
 
 #. This is a description for an object titled: Picnic Pavilion
 msgid "A picnic pavilion is a great place for your citizens to eat lunch."
-msgstr ""
+msgstr "Беседка за пикник."
 
 #. This is a description for an object titled: Coal Pile
 msgid "A pile of coal"
-msgstr ""
+msgstr "Купчина въглища"
 
 #. This is a description for an object titled: Desert Rocks
 #. This is a description for an object titled: Golden Rocks
 msgid "A pile of rocks that can be found in the desert biome."
-msgstr ""
+msgstr "Купчина пустинни камъни."
 
 #. This is a description for an object titled: Diamond Rocks
 msgid "A pile of rocks that can be found in the diamond biome."
-msgstr ""
+msgstr "Купчина диамантени камъни."
 
 #. This is a description for an object titled: Rocks
 msgid "A pile of rocks that can be found in the grasslands biome."
-msgstr ""
+msgstr "Купчина обикновени камъни."
 
 #. This is a description for an object titled: Snowy Rocks
 msgid "A pile of rocks that can be found in the snow biome."
-msgstr ""
+msgstr "Купчина заснежени камъни."
 
 #. This is a description for an object titled: Water Rocks
 msgid "A pile of rocks that can be found in water."
-msgstr ""
+msgstr "Купчина водни камъни."
 
 #. This is a description for an object titled: Poplars (Light)
 #. This is a description for an object titled: Poplars (Medium)
 #. This is a description for an object titled: Poplars (Dense)
 msgid "A poplar tree"
-msgstr ""
+msgstr "Топола"
 
 #. This is a description for an object titled: Prison Fence
 msgid "A prison fence"
-msgstr ""
+msgstr "Затворническа ограда"
 
 #. This is a description for an object titled: Rural French Road brokenlined
 msgid "A rural road from france with fresh asphalt with a broken line."
-msgstr ""
+msgstr "Френски селски път с нов асфалт и прекъсната линия."
 
 #. This is a description for an object titled: Rural French Road fresh
 msgid "A rural road from france with fresh asphalt."
-msgstr ""
+msgstr "Френски селски път с нов асфалт."
 
 #. This is a description for an object titled: Rural French Road
 msgid "A rural road from france with worn asphalt."
-msgstr ""
+msgstr "Френски селски път с износен асфалт."
 
 #. This is a description for an object titled: Rural French Road lined
 msgid "A rural road from france with worn asphalth a straight line."
-msgstr ""
+msgstr "Френски селски път с износен асфалт и непрекъсната линия."
 
 #. This is a description for an object titled: Game Shop
 msgid "A shop that sells games. Even Cytopia is sold here!"
-msgstr ""
+msgstr "Магазин за компютърни игри. Дори Cytopia е на витрината!"
 
 #. This is a description for an object titled: Phone Shop
 msgid "A shop that sells phones. It has the new CyPhone X"
-msgstr ""
+msgstr "Магазин за мобилни телефони. Новият CyPhone X вече е в продажба"
 
 #. This is a description for an object titled: CompactFast Shop
 #. This is a description for an object titled: Shop
 msgid "A shop!"
-msgstr ""
+msgstr "Магазин!"
 
 #. This is a description for an object titled: Small house
 msgid "A small  building"
-msgstr ""
+msgstr "Малка сграда"
 
 #. This is a description for an object titled: Small Military Facility
 msgid "A small building dedicated to small-scale inustrial-related military "
 "activity."
-msgstr ""
+msgstr "Малка сграда, предназначена за дребномащабната военна промишленост."
 
 #. This is a description for an object titled: Mansion
 msgid "A small french mansion "
-msgstr ""
+msgstr "Малко френско имение "
 
 #. This is a description for an object titled: Lantern
 msgid "A small lantern that can be used to decorate your cities."
-msgstr ""
+msgstr "Малък декоративен фенер."
 
 #. This is a description for an object titled: Small Office Building
 msgid "A small office building with a nice sidewalk and a unique blue "
 "entrance."
-msgstr ""
+msgstr "Малка административна сграда с красив тротоар и уникален вход в синьо."
 
 #. This is a description for an object titled: Homeless Camp
 msgid "A small piece of land where impoverished people reside."
-msgstr ""
+msgstr "Малка площ, предоставена за използване от бездомните хора."
 
 #. This is a description for an object titled: Small Shed
 msgid "A small shed used by nearby factories as a way to store things."
-msgstr ""
+msgstr "Малък навес за съхранение на материали."
 
 #. This is a description for an object titled: BikeShop
 msgid "A small shop that sells bikes."
-msgstr ""
+msgstr "Малък магазин за велосипеди."
 
 #. This is a description for an object titled: Small House
 msgid "A small trailer house"
-msgstr ""
+msgstr "Малка каравана"
 
 #. This is a description for an object titled: Small House
 msgid "A small trailer house."
-msgstr ""
+msgstr "Малка каравана."
 
 #. This is a description for an object titled: Small Waiting Platform
 msgid "A small train platform that has a small structure on it.  People can "
 "wait here until the train comes, although there isnt much room "
 "inside."
-msgstr ""
+msgstr "Малък железопътен перон с чакалня."
 
 #. This is a description for an object titled: Small Water Tower
 msgid "A small water tower"
-msgstr ""
+msgstr "Малка водонапорна кула"
 
 #. This is a description for an object titled: Wooden Sign
 msgid "A small wooden sign that can be used to decorate a town.  It doesn't "
 "actually say anything though..."
-msgstr ""
+msgstr "Малка дървена табела, предназначена за украса."
 
 #. This is a description for an object titled: Borg's Burgers
 msgid "A somewhat large fast food restaurant known for cheap food and "
 "questionable quality."
 msgstr ""
+"Сравнително голяма закусвалня, известна с евтината си храна, която е от "
+"съмнителен произход."
 
 #. This is a description for an object titled: Trailer Park
 msgid "A somewhat-large plot of land that is the home to many trailer "
 "houses."
-msgstr ""
+msgstr "Сравнително голяма площ, предоставена за използване от караваните."
 
 #. This is a description for an object titled: Classic Red Barn
 msgid "A stereotypical red barn."
-msgstr ""
+msgstr "Стереотипен червен обор."
 
 #. This is a description for an object titled: Glass Tower
 msgid "A tall glass skyscraper that fears the day a stone-throwing "
 "competition is held in town."
-msgstr ""
+msgstr "Висок небостъргач със стъклена фасада."
 
 #. This is a description for an object titled: Light Pole
 msgid "A tall light pole that can be used to decorate a town."
-msgstr ""
+msgstr "Висок уличен стълб за осветление, предназначен за украса."
 
 #. This is a description for an object titled: Small Shack
 msgid "A tiny house that can only accommodate a few people."
-msgstr ""
+msgstr "Малка еднофамилна къща."
 
 #. This is a description for an object titled: Bench Platform
 msgid "A train platform with a couple of benches and a trash can."
-msgstr ""
+msgstr "Железопътен перон с няколко пейки и кофа за отпадъци."
 
 #. This is a description for an object titled: Sign Platform
 msgid "A train platform with a large sign on it."
-msgstr ""
+msgstr "Железопътен перон с голяма табела."
 
 #. This is a description for an object titled: Sunken Ship
 msgid "A very old ship that crashed here long ago.  Its origin is unkown, "
 "but I think it's safe to say what happened to its crew"
-msgstr ""
+msgstr "Много стар корабокруширал кораб с неизвестен произход"
 
 #. This is a description for an object titled: Yellow Cacti (Light)
 #. This is a description for an object titled: Yellow Cacti (Medium)
 #. This is a description for an object titled: Yellow Cacti (Dense)
 msgid "A yellow cactus."
-msgstr ""
+msgstr "Жълт кактус."
 
 #. This is a title for an object with the description: Alley road.
 msgid "Alley Road"
-msgstr ""
+msgstr "Пътека"
 
 #. This is a description for an object titled: Alley Road
 msgid "Alley road."
-msgstr ""
+msgstr "Пътека."
 
 #. This is a description for an object titled: Skyscraper
 msgid "An algae-green tower that is the home of lots of people."
-msgstr ""
+msgstr "Жилищна кула с зеленикав цвят."
 
 #. This is a description for an object titled: Old Power Plant
 msgid "An ancient coal power plant that has been turned into a factory."
-msgstr ""
+msgstr "Стар ТЕЦ, който е превърнат в завод."
 
 #. This is a description for an object titled: Apartment Building
 msgid "An apartment building from Montreal , Quebec"
-msgstr ""
+msgstr "Блок от Монреал в провинция Квебек, Канада"
 
 #. This is a description for an object titled: Apartment Building
 msgid "An apartment building from Vancouver , BC , Canada"
-msgstr ""
+msgstr "Блок от Ванкувър в провинция Британска Колумбия, Канада"
 
 #. This is a description for an object titled: Apartment Building
 msgid "An appartement building from Bellevue , WA , USA"
-msgstr ""
+msgstr "Блок от Белвю в щата Вашингтон, САЩ"
 
 #. This is a description for an object titled: Country Road
 msgid "An average road that'll you would commonly find out in the "
 "countryside.  It lacks a proper sidewalk though."
-msgstr ""
+msgstr "Обикновен третокласен път без тротоар."
 
 #. This is a description for an object titled: European Road
 msgid "An european looking road."
-msgstr ""
+msgstr "Път по европейски образец."
 
 #. This is a description for an object titled: Oasis
 msgid "An oasis"
-msgstr ""
+msgstr "Оазис"
 
 #. This is a description for an object titled: Phone Booth
 msgid "An old blue phone booth that can be used to decorate your cities."
-msgstr ""
+msgstr "Стара телефонна кабинка в син цвят, предназначена за украса."
 
 #. This is a description for an object titled: Clock Store
 msgid "An old clock store that sells and repairs clocks."
-msgstr ""
+msgstr "Стар часовникарски магазин."
 
 #. This is a description for an object titled: Day Care Center
 msgid "An old day care that has since become someone's home."
-msgstr ""
+msgstr "Стар дневен детски център."
 
 #. This is a description for an object titled: Mini Depolluter
 msgid "An old depolluter building that has become a new industrial factory."
 msgstr ""
+"Стара противозамърсяваща сграда, която е превърната в нов промишлен завод."
 
 #. This is a description for an object titled: Dirt Road
 msgid "An old dirt road that doesn't require much maintenance.  Not "
 "recommended for busy roadways."
-msgstr ""
+msgstr "Стар черен път, който не изисква особена поддръжка."
 
 #. This is a description for an object titled: Phone Booth
 msgid "An old phone booth that can be used to decorate your cities."
-msgstr ""
+msgstr "Стара телефонна кабинка, предназначена за украса."
 
 #. This is a title for an object with the description: Block of houses from the Boulevard des Belges , Rouen
 #. This is a title for an object with the description: A house from Vienna
@@ -507,70 +512,70 @@ msgstr ""
 #. This is a title for an object with the description: An apartment building from Montreal , Quebec
 #. This is a title for an object with the description: An apartment building from Vancouver , BC , Canada
 msgid "Apartment Building"
-msgstr ""
+msgstr "Блок"
 
 #. This is a title for an object with the description: Appartment
 #. This is a description for an object titled: Appartment
 msgid "Appartment"
-msgstr ""
+msgstr "Апартамент"
 
 #. This is a title for an object with the description: Appartment Building
 #. This is a description for an object titled: Appartment Building
 #. This is a title for an object with the description: TODO DESC
 msgid "Appartment Building"
-msgstr ""
+msgstr "Блок"
 
 #. This is a title for an object with the description: Appartment London
 #. This is a description for an object titled: Appartment London
 msgid "Appartment London"
-msgstr ""
+msgstr "Лондонски апартамент"
 
 #. This is a title for an object with the description: Appartments
 #. This is a description for an object titled: Appartments
 #. This is a subCategory
 msgid "Appartments"
-msgstr ""
+msgstr "Апартаменти"
 
 #. This is a title for an object with the description: A group of tall bamboo trees.
 msgid "Bamboo (Dense)"
-msgstr ""
+msgstr "Бамбук (гъст)"
 
 #. This is a title for an object with the description: A group of tall bamboo plants.
 msgid "Bamboo (Light)"
-msgstr ""
+msgstr "Бамбук (рядък)"
 
 #. This is a title for an object with the description: A group of tall bamboo plants.
 msgid "Bamboo (Medium)"
-msgstr ""
+msgstr "Бамбук (умерен)"
 
 #. This is a title for an object with the description: Terrain basalt tiles
 msgid "Basalt"
-msgstr ""
+msgstr "Базалт"
 
 #. This is a title for an object with the description: Terrain beach tiles
 msgid "Beach"
-msgstr ""
+msgstr "Плаж"
 
 #. This is a title for an object with the description: A train platform with a couple of benches and a trash can.
 msgid "Bench Platform"
-msgstr ""
+msgstr "Железопътна платформа с пейки"
 
 #. This is a title for an object with the description: A few benches that offer a place to sit to your citizens.
 msgid "Benches"
-msgstr ""
+msgstr "Пейки"
 
 #. This is a title for an object with the description: big Appartments
 #. This is a title for an object with the description: big Appartments
 msgid "Big Appartments"
-msgstr ""
+msgstr "Големи апартаменти"
 
 #. This is a title for an object with the description: A big building
 msgid "Big Building"
-msgstr ""
+msgstr "Голяма сграда"
 
 #. This is a title for an object with the description: A new factory that was once a depolluter building.
 msgid "Big Depolluter"
-msgstr ""
+msgstr "Голям противозамърсител"
 
 #. This is a title for an object with the description: Big Office Building
 #. This is a description for an object titled: Big Office Building
