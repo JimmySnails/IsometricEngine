@@ -1,40 +1,42 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# TDM OF TDM <dillonmanyo@gmail.com>, 2019
+# Reza Almanda <rezaalmanda27@gmail.com>, 2021.
 #
 # Translators:
-# TDM OF TDM <dillonmanyo@gmail.com>, 2019
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-10 14:12+0100\n"
-"PO-Revision-Date: 2019-06-14 12:00+0000\n"
-"Last-Translator: TDM OF TDM <dillonmanyo@gmail.com>, 2019\n"
-"Language-Team: Indonesian (https://www.transifex.com/cytopia/teams/100140/"
-"id/)\n"
+"PO-Revision-Date: 2021-02-26 12:50+0000\n"
+"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/cytopia/game/"
+"id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.5\n"
 
 #. This is a description for an object titled: Small Coal Power Plant2
 msgid "A  small coal power plant."
-msgstr "Sebuah PLTUB Pembangkit Listrik Tenaga Batubara Kecil"
+msgstr "Sebuah PLTU Kecil."
 
 #. This is a description for an object titled: Small Coal Power Plant
 msgid ""
 "A  small coal power plant.  It can supply a small town with electricity, but "
 "it produces a lot of pollution."
 msgstr ""
+"Pembangkit listrik batu bara kecil. Ia dapat memasok kota kecil dengan "
+"listrik, tetapi menghasilkan banyak polusi."
 
 #. This is a description for an object titled: Wheat Field
 msgid "A Wheat Field"
-msgstr ""
+msgstr "Ladang Gandum"
 
 #. This is a description for an object titled: Water Tower
 msgid "A beautiful water tower"
@@ -45,14 +47,12 @@ msgid "A big building"
 msgstr "Sebuah Bangunan Besar"
 
 #. This is a description for an object titled: Tall Concrete Tower
-#, fuzzy
-#| msgid "An apartment building from Montreal , Quebec"
 msgid "A bland-looking apartment building made out of concrete."
-msgstr "Sebuah Bangunan Apartemen Dari Montreal , Quebec"
+msgstr "Sebuah bangunan apartemen biasa terbuat dari beton."
 
 #. This is a description for an object titled: Blank Platform
 msgid "A blank train platform with nothing on it."
-msgstr ""
+msgstr "Peron kereta kosong."
 
 #. This is a description for an object titled: Hotel
 msgid "A blue hotel from vienna"
@@ -62,7 +62,7 @@ msgstr "Sebuah Hotel Biru Dari Vienna"
 #. This is a description for an object titled: Red Berry Bushes (Medium)
 #. This is a description for an object titled: Red Berry Bushes (Dense)
 msgid "A bush with delicious red berries."
-msgstr ""
+msgstr "Semak-semak dengan buah beri merah yang enak."
 
 #. This is a description for an object titled: Chemical Plant
 msgid "A chemical plant"
@@ -70,7 +70,7 @@ msgstr "Sebuah Pabrik Barang"
 
 #. This is a description for an object titled: Medium Depolluter
 msgid "A classic depolluter building that has been recently repurposed."
-msgstr ""
+msgstr "Bangunan depolluter klasik yang baru saja digunakan kembali."
 
 #. This is a description for an object titled: Mansion
 msgid "A classic house from Savannah , Georgia , USA"
@@ -81,6 +81,8 @@ msgid ""
 "A coal power plant.  It'll produce enough electricity to keep a town "
 "running, but it creates a lot of pollution."
 msgstr ""
+"Pembangkit listrik tenaga batu bara. Ia dapat menghasilkan listrik yang "
+"cukup untuk menjaga kota tetap berjalan, tetapi menciptakan banyak polusi."
 
 #. This is a description for an object titled: Small Commercial Center
 msgid "A commercial center"
@@ -93,47 +95,47 @@ msgstr "Sebuah Pabrik"
 
 #. This is a description for an object titled: Benches
 msgid "A few benches that offer a place to sit to your citizens."
-msgstr ""
+msgstr "Beberapa bangku untuk tempat duduk warga."
 
 #. This is a description for an object titled: Green Cacti (Light)
 #. This is a description for an object titled: Green Cacti (Medium)
 #. This is a description for an object titled: Green Cacti (Dense)
 msgid "A green cactus."
-msgstr ""
+msgstr "Kaktus hijau."
 
 #. This is a description for an object titled: Pine Trees (Light)
 #. This is a description for an object titled: Pine Trees (Medium)
 #. This is a description for an object titled: Pine Trees (Dense)
 msgid "A group of beautiful pinetrees."
-msgstr ""
+msgstr "Sejumlah pohon pinus yang indah."
 
 #. This is a description for an object titled: Centerpiece Park
 msgid "A group of benches that surround a nice decorative object."
-msgstr ""
+msgstr "Sekelompok bangku yang mengelilingi benda dekoratif yang bagus."
 
 #. This is a description for an object titled: Birch Trees (Light)
 #. This is a description for an object titled: Birch Trees (Medium)
 #. This is a description for an object titled: Birch Trees (Dense)
 msgid "A group of birch trees."
-msgstr ""
+msgstr "Sekelompok pohon birch."
 
 #. This is a description for an object titled: Burned Trees (Light)
 #. This is a description for an object titled: Burned Trees (Medium)
 #. This is a description for an object titled: Burned Trees (Dense)
 msgid "A group of burned trees."
-msgstr ""
+msgstr "Sekelompok pohon terbakar."
 
 #. This is a description for an object titled: Crystal Trees (Light)
 #. This is a description for an object titled: Crystal Trees (Medium)
 #. This is a description for an object titled: Crystal Trees (Dense)
 msgid "A group of crystal trees."
-msgstr ""
+msgstr "Sekelompok pohon kristal."
 
 #. This is a description for an object titled: Cypress Trees (Light)
 #. This is a description for an object titled: Cypress Trees (Medium)
 #. This is a description for an object titled: Cypress Trees (Dense)
 msgid "A group of cypress trees."
-msgstr ""
+msgstr "Sekelompok pohon cemara."
 
 #. This is a description for an object titled: People
 msgid ""
@@ -326,11 +328,8 @@ msgid "A rural road from france with worn asphalth a straight line."
 msgstr ""
 
 #. This is a description for an object titled: Game Shop
-#, fuzzy
-#| msgid "A shop that sells games. Even Cytopia is in store!"
 msgid "A shop that sells games. Even Cytopia is sold here!"
-msgstr ""
-"Sebuah Toko Yang Menjual Berbagai Permainan. Bahkan Cytopia Ada Di Toko Ini"
+msgstr "Sebuah toko yang menjual permainan. Bahkan Cytopia dijual di sini!"
 
 #. This is a description for an object titled: Phone Shop
 msgid "A shop that sells phones. It has the new CyPhone X"
@@ -353,7 +352,7 @@ msgstr ""
 
 #. This is a description for an object titled: Mansion
 msgid "A small french mansion "
-msgstr "Sebuah Mansion Prancis Kecil"
+msgstr "Sebuah Mansion Prancis Kecil "
 
 #. This is a description for an object titled: Lantern
 msgid "A small lantern that can be used to decorate your cities."
@@ -373,22 +372,16 @@ msgid "A small shed used by nearby factories as a way to store things."
 msgstr ""
 
 #. This is a description for an object titled: BikeShop
-#, fuzzy
-#| msgid "A Shop that sells Bikes"
 msgid "A small shop that sells bikes."
-msgstr "Sebuah Toko Yang Menjual Berbagai Sepeda"
+msgstr "Sebuah Toko Yang Menjual Sepeda."
 
 #. This is a description for an object titled: Small House
-#, fuzzy
-#| msgid "A small house"
 msgid "A small trailer house"
 msgstr "Sebuah Rumah Kecil"
 
 #. This is a description for an object titled: Small House
-#, fuzzy
-#| msgid "A small house"
 msgid "A small trailer house."
-msgstr "Sebuah Rumah Kecil"
+msgstr "Sebuah Rumah Kecil."
 
 #. This is a description for an object titled: Small Waiting Platform
 msgid ""
@@ -455,10 +448,8 @@ msgid "A yellow cactus."
 msgstr ""
 
 #. This is a title for an object with the description: Alley road.
-#, fuzzy
-#| msgid "Paved Road"
 msgid "Alley Road"
-msgstr "Jalan Beraspal"
+msgstr "Jalan Gang"
 
 #. This is a description for an object titled: Alley Road
 msgid "Alley road."
@@ -469,10 +460,8 @@ msgid "An algae-green tower that is the home of lots of people."
 msgstr ""
 
 #. This is a description for an object titled: Old Power Plant
-#, fuzzy
-#| msgid "A Power Plant, that has been built years ago"
 msgid "An ancient coal power plant that has been turned into a factory."
-msgstr "Sebuah Pembangkit Listrik Yang Sudah Dibangun Bertahun-tahun Yang lalu"
+msgstr "PLTU kuno yang telah diubah menjadi pabrik."
 
 #. This is a description for an object titled: Apartment Building
 msgid "An apartment building from Montreal , Quebec"
@@ -505,10 +494,8 @@ msgid "An old blue phone booth that can be used to decorate your cities."
 msgstr ""
 
 #. This is a description for an object titled: Clock Store
-#, fuzzy
-#| msgid "A shop that sells clocks"
 msgid "An old clock store that sells and repairs clocks."
-msgstr "Sebuah Toko Yang Menjual Berbagai Jam"
+msgstr "Sebuah toko yang menjual dan memperbaiki Jam."
 
 #. This is a description for an object titled: Day Care Center
 msgid "An old day care that has since become someone's home."
@@ -596,8 +583,6 @@ msgid "Big Building"
 msgstr "Bangunan Besar"
 
 #. This is a title for an object with the description: A new factory that was once a depolluter building.
-#, fuzzy
-#| msgid "Big Depollutor"
 msgid "Big Depolluter"
 msgstr "Depolutor Besar"
 
@@ -649,8 +634,6 @@ msgid "Bois Guillaume Appartment"
 msgstr "Apartemen Bois Guillaume"
 
 #. This is a title for an object with the description: A somewhat large fast food restaurant known for cheap food and questionable quality.
-#, fuzzy
-#| msgid "Borgs Burgers"
 msgid "Borg's Burgers"
 msgstr "Borgs Burger"
 
@@ -659,10 +642,8 @@ msgid "BuildMenu Layout"
 msgstr "Tata Letak Menu Bangunan"
 
 #. This is a subCategory
-#, fuzzy
-#| msgid "Decoration"
 msgid "BuildingsDecoration"
-msgstr "Dekorasi"
+msgstr "BangunanDekorasi"
 
 #. This is a title for an object with the description: A group of burned trees.
 msgid "Burned Trees (Dense)"
@@ -726,22 +707,16 @@ msgid "Commercial"
 msgstr "komersial"
 
 #. This is a title for an object with the description: Commercial Zone (dense).
-#, fuzzy
-#| msgid "A commercial center"
 msgid "Commercial Zone (dense)"
-msgstr "Sebuah Bangunan Komersial Pusat"
+msgstr "Zona Komersial (padat)"
 
 #. This is a description for an object titled: Commercial Zone (dense)
-#, fuzzy
-#| msgid "A commercial center"
 msgid "Commercial Zone (dense)."
-msgstr "Sebuah Bangunan Komersial Pusat"
+msgstr "Zona Komersial (padat)."
 
 #. This is a title for an object with the description: Commercial Zone (light).
-#, fuzzy
-#| msgid "Commercial"
 msgid "Commercial Zone (light)"
-msgstr "komersial"
+msgstr "Zona Komersial (ringan)"
 
 #. This is a description for an object titled: Commercial Zone (light)
 msgid "Commercial Zone (light)."
@@ -765,10 +740,8 @@ msgstr "Toko CompactFast"
 
 #. This is a title for an object with the description: Pretty concrete
 #. This is a title for an object with the description: Pavement
-#, fuzzy
-#| msgid "TerrainDecoration"
 msgid "Concrete Ground Decoration"
-msgstr "Dekorasi Permukaan Tanah"
+msgstr "Dekorasi Tanah Beton"
 
 #. This is a UiElement with the ID: construction menu
 #. This is a UiElement with the ID: roads menu
@@ -784,10 +757,8 @@ msgid "Country Road"
 msgstr "Jalan Tol"
 
 #. This is a title for an object with the description: A nice residential building donned with white and orange concrete.
-#, fuzzy
-#| msgid "Concrete Tower"
 msgid "Creme-Oran Tower"
-msgstr "Menara Beton"
+msgstr "Menara Creme-Oran"
 
 #. This is a title for an object with the description: A group of crystal trees.
 msgid "Crystal Trees (Dense)"
@@ -851,10 +822,8 @@ msgid "Diamond Rocks"
 msgstr ""
 
 #. This is a title for an object with the description: Terrain Dirt tiles
-#, fuzzy
-#| msgid "Dirt Road"
 msgid "Dirt"
-msgstr "Jalan Tanah"
+msgstr "Tanah"
 
 #. This is a title for an object with the description: An old dirt road that doesn't require much maintenance.  Not recommended for busy roadways.
 msgid "Dirt Road"
@@ -909,10 +878,8 @@ msgid "Flowers (Light)"
 msgstr ""
 
 #. This is a title for an object with the description: A lovely flower patch that blooms in all colors.
-#, fuzzy
-#| msgid "Depolluter Medium"
 msgid "Flowers (Medium)"
-msgstr "Depolutor Sedang"
+msgstr "Bunga (Sedang)"
 
 #. This is a title for an object with the description: Terrain grass forest tiles
 msgid "Forest"
@@ -927,10 +894,8 @@ msgid "Game Shop"
 msgstr "Toko Game"
 
 #. This is a title for an object with the description: A tall glass skyscraper that fears the day a stone-throwing competition is held in town.
-#, fuzzy
-#| msgid "Water Tower"
 msgid "Glass Tower"
-msgstr "Penampung Air"
+msgstr "Menara Kaca"
 
 #. This is a title for an object with the description: A pile of rocks that can be found in the desert biome.
 msgid "Golden Rocks"
@@ -977,10 +942,8 @@ msgid "Green Cacti (Medium)"
 msgstr ""
 
 #. This is a subCategory
-#, fuzzy
-#| msgid "Decoration"
 msgid "Ground Decoration"
-msgstr "Dekorasi"
+msgstr "Dekorasi Tanah"
 
 #. This is a subCategory
 msgid "High Wealth"
@@ -1034,25 +997,19 @@ msgid "Industrial Building"
 msgstr "Bangunan Industri"
 
 #. This is a title for an object with the description: Industrial Zone.
-#, fuzzy
-#| msgid "Industrial Building"
 msgid "Industrial Zone (light)"
-msgstr "Bangunan Industri"
+msgstr "Zona Industri (ringan)"
 
 #. This is a title for an object with the description: Industrial Zone.
 #. This is a title for an object with the description: Industrial Zone.
-#, fuzzy
-#| msgid "Industrial Building"
 msgid "Industrial Zone (medium)"
-msgstr "Bangunan Industri"
+msgstr "Zona Industri (sedang)"
 
 #. This is a description for an object titled: Industrial Zone (light)
 #. This is a description for an object titled: Industrial Zone (medium)
 #. This is a description for an object titled: Industrial Zone (medium)
-#, fuzzy
-#| msgid "Industrial"
 msgid "Industrial Zone."
-msgstr "Industri"
+msgstr "Zona Industri."
 
 #. This is a description for an object titled: Tan Tower
 msgid "It might be an old, bland-looking tower, but it gets the job done."
@@ -1122,22 +1079,16 @@ msgid "Medium Appartments"
 msgstr "Apartemen Sedang"
 
 #. This is a title for an object with the description: A classic depolluter building that has been recently repurposed.
-#, fuzzy
-#| msgid "Medium Depollutor"
 msgid "Medium Depolluter"
 msgstr "Depolutor Sedang"
 
 #. This is a subCategory
-#, fuzzy
-#| msgid "Medium Depollutor"
 msgid "Medium Wealth"
-msgstr "Depolutor Sedang"
+msgstr "Kekayaan Sedang"
 
 #. This is a title for an object with the description: An old depolluter building that has become a new industrial factory.
-#, fuzzy
-#| msgid "Big Depollutor"
 msgid "Mini Depolluter"
-msgstr "Depolutor Besar"
+msgstr "Depolutor Mini"
 
 #. This is a title for an object with the description: Terrain mud tiles
 msgid "Mud"
@@ -1160,10 +1111,8 @@ msgid "Nature"
 msgstr "Alam"
 
 #. This is a subCategory
-#, fuzzy
-#| msgid "Decoration"
 msgid "NatureDecoration"
-msgstr "Dekorasi"
+msgstr "DekorasiAlam"
 
 #. This is a UiElement with the Action: NewGame
 #: D:\projects\Cytopia\src\Game.cxx:123
@@ -1201,8 +1150,6 @@ msgid "Old Industrial Building"
 msgstr "Bangunan Industri Tua"
 
 #. This is a title for an object with the description: An ancient coal power plant that has been turned into a factory.
-#, fuzzy
-#| msgid "OldPowerPlant"
 msgid "Old Power Plant"
 msgstr "Pembangkit Listrik Tua"
 
@@ -1251,10 +1198,8 @@ msgstr "Pom Bensin"
 
 #. This is a title for an object with the description: An old phone booth that can be used to decorate your cities.
 #. This is a title for an object with the description: An old blue phone booth that can be used to decorate your cities.
-#, fuzzy
-#| msgid "Phone Shop"
 msgid "Phone Booth"
-msgstr "Toko Ponsel"
+msgstr "Bilik telepon"
 
 #. This is a title for an object with the description: A shop that sells phones. It has the new CyPhone X
 msgid "Phone Shop"
@@ -1297,10 +1242,8 @@ msgid "Poplars (Light)"
 msgstr ""
 
 #. This is a title for an object with the description: A poplar tree
-#, fuzzy
-#| msgid "Depolluter Medium"
 msgid "Poplars (Medium)"
-msgstr "Depolutor Sedang"
+msgstr "Poplar (Sedang)"
 
 #. This is a category
 #. This is a UiElement with the ID: power menu
@@ -1356,34 +1299,24 @@ msgid "Residential"
 msgstr "Perumahan"
 
 #. This is a title for an object with the description: Residential Zone (dense).
-#, fuzzy
-#| msgid "Residential"
 msgid "Residential Zone (dense)"
-msgstr "Perumahan"
+msgstr "Zona Perumahan (padat)"
 
 #. This is a description for an object titled: Residential Zone (dense)
-#, fuzzy
-#| msgid "Residential"
 msgid "Residential Zone (dense)."
-msgstr "Perumahan"
+msgstr "Zona Perumahan (padat)."
 
 #. This is a title for an object with the description: Residential Zone (light).
-#, fuzzy
-#| msgid "Residential"
 msgid "Residential Zone (light)"
-msgstr "Perumahan"
+msgstr "Zona Perumahan (ringan)"
 
 #. This is a description for an object titled: Residential Zone (light)
-#, fuzzy
-#| msgid "Residential"
 msgid "Residential Zone (light)."
-msgstr "Perumahan"
+msgstr "Zona Hunian (ringan)."
 
 #. This is a title for an object with the description: Residential Zone (medium).
-#, fuzzy
-#| msgid "Residential"
 msgid "Residential Zone (medium)"
-msgstr "Perumahan"
+msgstr "Zona Perumahan (sedang)"
 
 #. This is a description for an object titled: Residential Zone (medium)
 msgid "Residential Zone (medium)."
@@ -1480,8 +1413,6 @@ msgid "Sign Platform"
 msgstr ""
 
 #. This is a subCategory
-#, fuzzy
-#| msgid "Skyscraper"
 msgid "SkyScraper"
 msgstr "Pencakar Langit"
 
@@ -1508,8 +1439,6 @@ msgid "Small House"
 msgstr "Rumah kecil"
 
 #. This is a subCategory
-#, fuzzy
-#| msgid "Small House"
 msgid "Small Houses"
 msgstr "Rumah kecil"
 
@@ -1518,26 +1447,20 @@ msgid "Small Military Facility"
 msgstr ""
 
 #. This is a title for an object with the description: A small office building with a nice sidewalk and a unique blue entrance.
-#, fuzzy
-#| msgid "Big Office Building"
 msgid "Small Office Building"
-msgstr "Bangunan Kantor Besar"
+msgstr "Bangunan Kantor Kecil"
 
 #. This is a title for an object with the description: A tiny house that can only accommodate a few people.
 msgid "Small Shack"
 msgstr "Pondok Kecil"
 
 #. This is a title for an object with the description: A small shed used by nearby factories as a way to store things.
-#, fuzzy
-#| msgid "Small Shack"
 msgid "Small Shed"
-msgstr "Pondok Kecil"
+msgstr "Gudang Kecil"
 
 #. This is a title for an object with the description: A small train platform that has a small structure on it.  People can wait here until the train comes, although there isnt much room inside.
-#, fuzzy
-#| msgid "Small Water Tower"
 msgid "Small Waiting Platform"
-msgstr "Sebuah Penampung Air Kecil"
+msgstr "Tempat Tunggu Kecil"
 
 #. This is a title for an object with the description: A small water tower
 msgid "Small Water Tower"
@@ -1548,20 +1471,16 @@ msgid "Small house"
 msgstr "Rumah Kecil"
 
 #. This is a title for an object with the description: A pile of rocks that can be found in the snow biome.
-#, fuzzy
-#| msgid "Rocks"
 msgid "Snowy Rocks"
-msgstr "Bebatuan"
+msgstr "Bebatuan Bersalju"
 
 #. This is a title for an object with the description: Terrain soil tiles
 msgid "Soil"
 msgstr ""
 
 #. This is a category
-#, fuzzy
-#| msgid "Petrol Station"
 msgid "Station"
-msgstr "Pom Bensin"
+msgstr "Stasiun"
 
 #. This is a title for an object with the description: Terrain Stone tiles
 msgid "Stone"
@@ -1588,10 +1507,8 @@ msgid "Sunken Ship"
 msgstr ""
 
 #. This is a title for an object with the description: A bland-looking apartment building made out of concrete.
-#, fuzzy
-#| msgid "Concrete Tower"
 msgid "Tall Concrete Tower"
-msgstr "Menara Beton"
+msgstr "Menara Beton Tinggi"
 
 #. This is a title for an object with the description: In the tall grass.
 msgid "Tall Grass (Dense)"
@@ -1606,126 +1523,88 @@ msgid "Tall Grass (Medium)"
 msgstr ""
 
 #. This is a title for an object with the description: It might be an old, bland-looking tower, but it gets the job done.
-#, fuzzy
-#| msgid "Water Tower"
 msgid "Tan Tower"
-msgstr "Penampung Air"
+msgstr "Menara Tan"
 
 #. This is a category
 msgid "Terrain"
 msgstr "Permukaan Tanah"
 
 #. This is a description for an object titled: Black Sand
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Black Sand tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Wilayah Pasir Hitam"
 
 #. This is a description for an object titled: Blueprint
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Blueprint"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Wilayah Blueprint"
 
 #. This is a description for an object titled: Desert
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Desert tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Wilayah Gurun"
 
 #. This is a description for an object titled: Dirt
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Dirt tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Medan Gurun"
 
 #. This is a description for an object titled: Grass Mint Forest
 msgid "Terrain Grass Mint Forest tiles"
 msgstr ""
 
 #. This is a description for an object titled: Gravel
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Gravel tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Medan Kerikil"
 
 #. This is a description for an object titled: Red Sand
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Rainstone tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Wilayah Batu Hujan"
 
 #. This is a description for an object titled: Red Sand
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Red Sand tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Wilayah Pasir Merah"
 
 #. This is a description for an object titled: snow
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Snow tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin Medan Salju"
 
 #. This is a description for an object titled: Stone
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain Stone tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin Medan Batu"
 
 #. This is a description for an object titled: Basalt
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain basalt tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin medan basal"
 
 #. This is a description for an object titled: Beach
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain beach tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin medan pantai"
 
 #. This is a description for an object titled: Burned land
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain burned tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin medan terbakar"
 
 #. This is a description for an object titled: Forest
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain grass forest tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin medan rumput hutan"
 
 #. This is a description for an object titled: Grass Mint
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain grass mint tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin medan rumput ilalang"
 
 #. This is a description for an object titled: Grassland
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain grass tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin medan rumput"
 
 #. This is a description for an object titled: Mud
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain mud tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin lumpur"
 
 #. This is a description for an object titled: Shading
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain shading tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin bayangan"
 
 #. This is a description for an object titled: Soil
-#, fuzzy
-#| msgid "Terrain tiles"
 msgid "Terrain soil tiles"
-msgstr "Ubin Permukaan Tanah"
+msgstr "Ubin tanah"
 
 #. This is a category
 msgid "TerrainDecoration"
@@ -1765,26 +1644,20 @@ msgid "Water"
 msgstr "Air"
 
 #. This is a title for an object with the description: A pile of rocks that can be found in water.
-#, fuzzy
-#| msgid "Water Tower"
 msgid "Water Rocks"
-msgstr "Penampung Air"
+msgstr "Bebatuan Air"
 
 #. This is a title for an object with the description: A beautiful water tower
 msgid "Water Tower"
 msgstr "Penampung Air"
 
 #. This is a title for an object with the description: Pipes are used for transporting water.
-#, fuzzy
-#| msgid "Water Tower"
 msgid "Water pipe"
-msgstr "Penampung Air"
+msgstr "Pipa air"
 
 #. This is a subCategory
-#, fuzzy
-#| msgid "Flora"
 msgid "WaterFlora"
-msgstr "Flora"
+msgstr "FloraAir"
 
 #. This is a title for an object with the description: A Wheat Field
 msgid "Wheat Field"
