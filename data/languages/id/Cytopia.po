@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-10 14:12+0100\n"
-"PO-Revision-Date: 2021-02-26 12:50+0000\n"
+"PO-Revision-Date: 2021-02-28 00:50+0000\n"
 "Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/cytopia/game/"
 "id/>\n"
@@ -141,56 +141,57 @@ msgstr "Sekelompok pohon cemara."
 msgid ""
 "A group of mannequins you dressed up as people that can be used to decorate "
 "a town."
-msgstr ""
+msgstr "Sekelompok manekin yang dandani untuk menghias sebuah kota."
 
 #. This is a description for an object titled: Mushrooms (Light)
 #. This is a description for an object titled: Mushrooms (Medium)
 #. This is a description for an object titled: Mushrooms (Dense)
 msgid "A group of mysterious mushroom trees."
-msgstr ""
+msgstr "Sejumlah pohon jamur misterius."
 
 #. This is a description for an object titled: Oak Trees (Light)
 #. This is a description for an object titled: Oak Trees (Medium)
 #. This is a description for an object titled: Oak Trees (Dense)
 msgid "A group of oak trees."
-msgstr ""
+msgstr "Sekelompok pohon ek."
 
 #. This is a description for an object titled: Palm Trees (Light)
 #. This is a description for an object titled: Palm Trees (Medium)
 #. This is a description for an object titled: Palm Trees (Dense)
 msgid "A group of palmtrees."
-msgstr ""
+msgstr "Sekelompok pohon palem."
 
 #. This is a description for an object titled: Picnic Tables
 msgid "A group of picnic tables that your citizens can use to eat lunch at."
 msgstr ""
+"Sekelompok meja piknik yang dapat digunakan warga Anda untuk makan siang."
 
 #. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Light)
 #. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Medium)
 #. This is a description for an object titled: Thundercloud Purple Leaf Plum Trees (Dense)
 msgid "A group of plum trees."
-msgstr ""
+msgstr "Sekelompok pohon plum."
 
 #. This is a description for an object titled: Sakura Trees (Light)
 #. This is a description for an object titled: Sakura Trees (Medium)
 #. This is a description for an object titled: Sakura Trees (Dense)
 msgid "A group of sakura trees."
-msgstr ""
+msgstr "Sekelompok pohon sakura."
 
 #. This is a description for an object titled: Stone Pines (Light)
 #. This is a description for an object titled: Stone Pines (Medium)
 #. This is a description for an object titled: Stone Pines (Dense)
 msgid "A group of stone pines."
-msgstr ""
+msgstr "Sekelompok pinus batu."
 
 #. This is a description for an object titled: Bamboo (Light)
 #. This is a description for an object titled: Bamboo (Medium)
 msgid "A group of tall bamboo plants."
-msgstr ""
+msgstr "Sekelompok tanaman bambu tinggi."
 
 #. This is a description for an object titled: Bamboo (Dense)
 msgid "A group of tall bamboo trees."
-msgstr ""
+msgstr "Sejumlah pohon bambu tinggi."
 
 #. This is a description for an object titled: Cattails (Light)
 #. This is a description for an object titled: Cattails (Medium)
@@ -200,7 +201,7 @@ msgstr ""
 
 #. This is a description for an object titled: Highway Road
 msgid "A highway! Cars go faaaaast here."
-msgstr ""
+msgstr "Jalan raya! Mobil melaju cepat di sini."
 
 #. This is a description for an object titled: house
 msgid "A house from Alabama , USA"
@@ -215,28 +216,30 @@ msgid ""
 "A large multi-story shopping mall with large windows. Urban legends say it "
 "was built by hand by the members of a distant community"
 msgstr ""
+"Pusat perbelanjaan bertingkat dan besar. Legenda mengatakan ia dibangun "
+"dengan tangan oleh masyarakat"
 
 #. This is a description for an object titled: Large Plaza Park
 msgid "A large plaza with a pool of water in the middle."
-msgstr ""
+msgstr "Sebuah plaza besar dengan kolam air di tengah."
 
 #. This is a description for an object titled: Flowers (Light)
 #. This is a description for an object titled: Flowers (Medium)
 #. This is a description for an object titled: Flowers (Dense)
 msgid "A lovely flower patch that blooms in all colors."
-msgstr ""
+msgstr "Sebuah tambalan bunga yang indah dan mekar dalam semua warna."
 
 #. This is a description for an object titled: European Road
 msgid "A modern european looking road without a sidewalk."
-msgstr ""
+msgstr "Jalan bergaya Eropa modern tanpa trotoar."
 
 #. This is a description for an object titled: European Road
 msgid "A modern european looking road."
-msgstr ""
+msgstr "Jalan bergaya Eropa modern."
 
 #. This is a description for an object titled: Big Depolluter
 msgid "A new factory that was once a depolluter building."
-msgstr ""
+msgstr "Sebuah pabrik baru yang dulunya merupakan bangunan depolluter."
 
 #. This is a description for an object titled: Park Crossroads
 msgid "A nice park that can be used as a good centerpiece."
@@ -252,11 +255,12 @@ msgstr ""
 msgid ""
 "A nice public pool that is a great way to stay cool and keep your citizens "
 "happy."
-msgstr ""
+msgstr "Kolam renang umum yang bagus untuk membuat warga Anda bahagia."
 
 #. This is a description for an object titled: Creme-Oran Tower
 msgid "A nice residential building donned with white and orange concrete."
 msgstr ""
+"Sebuah bangunan tempat tinggal yang bagus dengan beton putih dan oranye."
 
 #. This is a description for an object titled: TODO TITLE
 msgid ""
@@ -283,45 +287,46 @@ msgstr "Sejumlah Tumpukan Batubara"
 #. This is a description for an object titled: Desert Rocks
 #. This is a description for an object titled: Golden Rocks
 msgid "A pile of rocks that can be found in the desert biome."
-msgstr ""
+msgstr "Tumpukan batu yang dapat ditemukan di bioma gurun."
 
 #. This is a description for an object titled: Diamond Rocks
 msgid "A pile of rocks that can be found in the diamond biome."
-msgstr ""
+msgstr "Tumpukan batu yang dapat ditemukan di bioma berlian."
 
 #. This is a description for an object titled: Rocks
 msgid "A pile of rocks that can be found in the grasslands biome."
-msgstr ""
+msgstr "Tumpukan batuan yang dapat ditemukan di bioma padang rumput."
 
 #. This is a description for an object titled: Snowy Rocks
 msgid "A pile of rocks that can be found in the snow biome."
-msgstr ""
+msgstr "Tumpukan batu yang dapat ditemukan di bioma salju."
 
 #. This is a description for an object titled: Water Rocks
 msgid "A pile of rocks that can be found in water."
-msgstr ""
+msgstr "Tumpukan batu yang dapat ditemukan dalam air."
 
 #. This is a description for an object titled: Poplars (Light)
 #. This is a description for an object titled: Poplars (Medium)
 #. This is a description for an object titled: Poplars (Dense)
 msgid "A poplar tree"
-msgstr ""
+msgstr "Pohon poplar"
 
 #. This is a description for an object titled: Prison Fence
 msgid "A prison fence"
-msgstr ""
+msgstr "Pagar penjara"
 
 #. This is a description for an object titled: Rural French Road brokenlined
 msgid "A rural road from france with fresh asphalt with a broken line."
 msgstr ""
+"Jalan pedesaan dari Perancis dengan aspal segar dengan garis putus-putus."
 
 #. This is a description for an object titled: Rural French Road fresh
 msgid "A rural road from france with fresh asphalt."
-msgstr ""
+msgstr "Jalan pedesaan dari Perancis dengan aspal segar."
 
 #. This is a description for an object titled: Rural French Road
 msgid "A rural road from france with worn asphalt."
-msgstr ""
+msgstr "Jalan pedesaan dari Perancis dengan aspal usang."
 
 #. This is a description for an object titled: Rural French Road lined
 msgid "A rural road from france with worn asphalth a straight line."
