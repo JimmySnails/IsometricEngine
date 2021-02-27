@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-10 14:12+0100\n"
-"PO-Revision-Date: 2021-02-25 23:50+0000\n"
+"PO-Revision-Date: 2021-02-28 00:50+0000\n"
 "Last-Translator: Georgi Georgiev <g.georgiev.shumen@gmail.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/cytopia/game/"
 "bg/>\n"
@@ -678,11 +678,11 @@ msgstr "Химически завод"
 
 #. This is a title for an object with the description: A stereotypical red barn.
 msgid "Classic Red Barn"
-msgstr ""
+msgstr "Типичен червен обор"
 
 #. This is a title for an object with the description: An old clock store that sells and repairs clocks.
 msgid "Clock Store"
-msgstr ""
+msgstr "Часовникарски магазин"
 
 #. This is a title for an object with the description: A pile of coal
 msgid "Coal Pile"
